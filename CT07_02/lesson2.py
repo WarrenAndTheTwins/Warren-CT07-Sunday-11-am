@@ -205,10 +205,10 @@ while True:
     ans = input("Gyatt rizz mew?")
     if ans == "chipi chipi chapa chapa".lower():
         print("Correct!")
-        ans = input("What is the capital of Honduras?")
-        if ans == "Tegucigalpa".lower():
+        ans1 = input("What is the capital of Honduras?")
+        if ans1 == "Tegucigalpa".lower():
             print("Correct!")
-            ans = input("BIBI GOES BYE BYE")
-            if ans == "I'M CRACKED WITH DYNAMIKE".lower():
+            ans2 = input("BIBI GOES BYE BYE")
+            if ans2 == "I'M CRACKED WITH DYNAMIKE".lower():
                 print("YOOO U CRACKED").lower()
                 break

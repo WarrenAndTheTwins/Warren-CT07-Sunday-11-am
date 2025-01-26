@@ -211,3 +211,4 @@ while True:
             ans = input("BIBI GOES BYE BYE")
             if ans == "I'M CRACKED WITH DYNAMIKE".lower():
                 print("YOOO U CRACKED").lower()
+                break

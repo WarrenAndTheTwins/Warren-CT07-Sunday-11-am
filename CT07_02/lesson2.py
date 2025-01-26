@@ -202,4 +202,4 @@ Bonus:
 
 '''
 while True:
-    input()
+    ans = input("Gyatt rizz mew?")

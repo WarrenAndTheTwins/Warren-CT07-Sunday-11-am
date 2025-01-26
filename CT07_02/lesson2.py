@@ -216,4 +216,4 @@ Bonus:
 ans = input("BRUHHH")
 while ans != "BRUHHH":
     print ("Not skibidi...")
-    
+    ans = input("BRUHHH")

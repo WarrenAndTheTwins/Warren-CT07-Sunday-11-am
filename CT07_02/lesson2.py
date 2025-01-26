@@ -213,4 +213,4 @@ Bonus:
 #                 print("YOOO U CRACKED").lower()
 #                 break
 
-ans = input()
+ans = input("BRUHHH")

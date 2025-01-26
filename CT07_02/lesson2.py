@@ -205,4 +205,4 @@ while True:
     ans = input("Gyatt rizz mew?")
     if ans == "chipi chipi chapa chapa":
         print("Correct!")
-        ans = input("What is the capital of ")
+        ans = input("What is the capital of Honduras?")

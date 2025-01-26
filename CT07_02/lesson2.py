@@ -206,3 +206,5 @@ while True:
     if ans == "chipi chipi chapa chapa":
         print("Correct!")
         ans = input("What is the capital of Honduras?")
+        if ans == "Tegucigalpa":
+            print()

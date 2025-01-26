@@ -203,10 +203,10 @@ Bonus:
 '''
 while True:
     ans = input("Gyatt rizz mew?")
-    if ans == "chipi chipi chapa chapa":
+    if ans == "chipi chipi chapa chapa".lower():
         print("Correct!")
         ans = input("What is the capital of Honduras?")
-        if ans == "Tegucigalpa":
+        if ans == "Tegucigalpa".lower():
             print("Correct!")
             ans = input("BIBI GOES BYE BYE")
             if ans == "I'M CRACKED WITH DYNAMIKE".lower():

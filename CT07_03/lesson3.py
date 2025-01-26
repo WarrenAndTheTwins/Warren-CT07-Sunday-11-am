@@ -7,4 +7,4 @@ while timer > 0:
     print (timer)
     time.sleep(60)
     timer -= 1
-print("")
+print("U dumdum, so keep studying.")

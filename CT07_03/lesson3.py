@@ -1,5 +1,5 @@
 print("Hello from lesson 3")
-
+timer = 1
 import time
 
 int(timer) == input("how long is ur study time?")

@@ -209,3 +209,5 @@ while True:
         if ans == "Tegucigalpa":
             print("Correct!")
             ans = input("BIBI GOES BYE BYE")
+            if ans == "I'M CRACKED WITH DYNAMIKE".lower():
+                print

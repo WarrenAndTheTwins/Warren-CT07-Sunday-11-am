@@ -204,4 +204,5 @@ Bonus:
 while True:
     ans = input("Gyatt rizz mew?")
     if ans == "chipi chipi chapa chapa":
-        print()
+        print("Correct!")
+        

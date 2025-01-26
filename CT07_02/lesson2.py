@@ -201,14 +201,16 @@ Bonus:
 3. Disqualify user when they have tried too many times
 
 '''
-while True:
-    ans = input("Gyatt rizz mew?")
-    if ans == "chipi chipi chapa chapa".lower():
-        print("Correct!")
-        ans1 = input("What is the capital of Honduras?")
-        if ans1 == "Tegucigalpa".lower():
-            print("Correct!")
-            ans2 = input("BIBI GOES BYE BYE")
-            if ans2 == "I'M CRACKED WITH DYNAMIKE".lower():
-                print("YOOO U CRACKED").lower()
-                break
+# while True:
+#     ans = input("Gyatt rizz mew?")
+#     if ans == "chipi chipi chapa chapa".lower():
+#         print("Correct!")
+#         ans1 = input("What is the capital of Honduras?")
+#         if ans1 == "Tegucigalpa".lower():
+#             print("Correct!")
+#             ans2 = input("BIBI GOES BYE BYE")
+#             if ans2 == "I'M CRACKED WITH DYNAMIKE".lower():
+#                 print("YOOO U CRACKED").lower()
+#                 break
+
+W

@@ -217,3 +217,4 @@ ans = input("BRUHHH")
 while ans != "lol":
     print ("Not skibidi...")
     ans = input("BRUHHH")
+print()

@@ -210,4 +210,4 @@ while True:
             print("Correct!")
             ans = input("BIBI GOES BYE BYE")
             if ans == "I'M CRACKED WITH DYNAMIKE".lower():
-                print
+                print("YOOO U CRACKED").lower()

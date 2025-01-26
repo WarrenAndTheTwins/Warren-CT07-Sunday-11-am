@@ -214,6 +214,6 @@ Bonus:
 #                 break
 
 ans = input("BRUHHH")
-while ans != "BRUHHH":
+while ans != "lol":
     print ("Not skibidi...")
     ans = input("BRUHHH")

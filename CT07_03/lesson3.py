@@ -8,3 +8,5 @@ while timer > 0:
     time.sleep(60)
     timer -= 1
 print("U dumdum, so keep studying.")
+
+sa

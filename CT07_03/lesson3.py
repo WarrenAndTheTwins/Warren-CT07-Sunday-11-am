@@ -25,6 +25,7 @@ life = 3
 quotient1 = random.randint(2,20)
 quotient2 = random.randint(2,20)
 questions = 0
+incorrect = 0
 product = 90876
 print("LOL HERE IS QUIZ no way u smart enough to win")
 while life > 0:
@@ -41,7 +42,7 @@ while life > 0:
 if questions < 15:
     print("YOU NEED TO LEAVE!")
     print(questions)
-    
+
 else:
     print("u pretty good!")
 

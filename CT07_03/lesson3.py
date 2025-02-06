@@ -34,6 +34,7 @@ while life > 0:
     if int(product_lol) != product:
         # product_lol = input("What is " + str(quotient1) + " x " + str(quotient2) + "?")
         life -= 1
+        incorrect += 1
     else:
         quotient1 = random.randint(2,20)
         quotient2 = random.randint(2,20)
@@ -42,7 +43,7 @@ while life > 0:
 if questions < 15:
     print("YOU NEED TO LEAVE!")
     print(questions)
-
+    p
 else:
     print("u pretty good!")
 

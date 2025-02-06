@@ -32,5 +32,5 @@ while life > 0:
     product = quotient1 * quotient2
     if product_lol != product:
         product_lol = input("What is " + quotient1 + " x " + quotient2 + "?")
-        life -
+        life -= 1
 

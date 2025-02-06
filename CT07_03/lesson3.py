@@ -43,7 +43,7 @@ while life > 0:
 if questions < 15:
     print("YOU NEED TO LEAVE!")
     print(questions)
-    print(str((((questions/(questions + incorrect)) * 100))) + "%")
+    print(str((questions/(questions + incorrect)) * 100) + "%")
 else:
     print("u pretty good!")
 

@@ -37,7 +37,7 @@ while life > 0:
         incorrect += 1
     else:
         quotient1 = random.randint(2,100)
-        quotient2 = random.randint(2,20)
+        quotient2 = random.randint(2,100)
         questions += 1
         print(questions)
         life = 3

@@ -28,4 +28,9 @@ questions = 0
 product = 90876
 print("LOL HERE IS QUIZ no way u smart enough to win")
 while life > 0:
-    input("What is " + quotient1 + " x quotient2")
+    product_lol = input("What is " + quotient1 + " x " + quotient2 + "?")
+    product = quotient1 * quotient2
+    if product_lol != product:
+        product_lol = input("What is " + quotient1 + " x " + quotient2 + "?")
+        life -
+

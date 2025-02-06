@@ -30,7 +30,7 @@ print("LOL HERE IS QUIZ no way u smart enough to win")
 while life > 0:
     product_lol = input("What is " + str(quotient1) + " x " + str(quotient2) + "?")
     product = quotient1 * quotient2
-    if product_lol != product:
+    if int(product_lol) != product:
         product_lol = input("What is " + str(quotient1) + " x " + str(quotient2) + "?")
         life -= 1
     else:

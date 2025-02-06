@@ -13,4 +13,4 @@ savings = 0
 while savings < 100:
     savings_today = input("How much you save today?")
     savings = savings + int(savings_today)
-    
+print("")

@@ -22,4 +22,4 @@
 import random
 
 life = 3
-quotient1 = random.randint(1,)
+quotient1 = random.randint(2,20)

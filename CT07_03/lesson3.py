@@ -31,7 +31,7 @@ while life > 0:
     product_lol = input("What is " + quotient1 + " x " + quotient2 + "?")
     product = quotient1 * quotient2
     if product_lol != product:
-        product_lol = input("What is " + quotient1 + " x " + quotient2 + "?")
+        product_lol = input("What is " + str(quotient1) + " x " + quotient2 + "?")
         life -= 1
     else:
         quotient1 = random.randint(2,20)

@@ -9,4 +9,5 @@ while timer > 0:
     timer -= 1
 print("U dumdum, so keep studying.")
 
-sa
+savings = 0
+saving_

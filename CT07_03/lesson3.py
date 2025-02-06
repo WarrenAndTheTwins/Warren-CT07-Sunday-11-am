@@ -25,4 +25,6 @@ life = 3
 quotient1 = random.randint(2,20)
 quotient2 = random.randint(2,20)
 questions = 0
-print("LOL HERE IS ")
+print("LOL HERE IS QUIZ no way u smart enough to win")
+while life > 0:
+    input 

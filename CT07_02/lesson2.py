@@ -105,7 +105,7 @@ while True:
                     
                 elif coupons.lower() == "shivermetimbers":
                     price *= 0.90
-                    print(round(price)
+                    print(round(price, 2))
                     input("Alrighty. What's your Credit Card Number? We accept Visa, MasterCard, etc.")
                     print("Delivery arriving soon.")
                     for i in range(delivery_time,0,-1):

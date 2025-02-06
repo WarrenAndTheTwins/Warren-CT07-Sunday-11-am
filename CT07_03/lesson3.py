@@ -24,3 +24,5 @@ import random
 life = 3
 quotient1 = random.randint(2,20)
 quotient2 = random.randint(2,20)
+questions = 0
+print()

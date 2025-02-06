@@ -19,3 +19,5 @@
 #     savings = savings + float(savings_today)
 # print("U suck. Noone likes u. Your free trial has ended, now you must pay " + str(savings) + " dollars.")
 
+import random
+

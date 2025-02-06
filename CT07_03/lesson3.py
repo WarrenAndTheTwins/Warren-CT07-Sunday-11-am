@@ -21,3 +21,4 @@
 
 import random
 
+life = 3

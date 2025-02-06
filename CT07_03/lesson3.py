@@ -10,4 +10,6 @@ while timer > 0:
 print("U dumdum, so keep studying.")
 
 savings = 0
-savings_today = input("How much you save today?")
+while savings < 100:
+    savings_today = input("How much you save today?")
+    savings = savings + savings_today

@@ -39,4 +39,6 @@ while life > 0:
         questions += 1
         life = 3
 if questions < 15:
+    "YOU NEED TO LEAVE!"
+else:
     ""

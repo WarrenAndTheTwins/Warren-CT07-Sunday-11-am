@@ -38,13 +38,13 @@ while life > 0:
     else:
         quotient1 = random.randint(2,20)
         quotient2 = random.randint(2,20)
-        question += 1
+        questions += 1
         print(questions)
         life = 3
 if questions < 15:
     print("YOU NEED TO LEAVE!")
-    print(questions)
-    print(str((questions/(questions + incorrect)) * 100) + "%")
+
 else:
     print("u pretty good!")
-
+    print(questions)
+    print(str((questions/(questions + incorrect)) * 100) + "%")

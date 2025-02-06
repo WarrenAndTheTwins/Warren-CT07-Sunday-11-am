@@ -28,4 +28,4 @@ questions = 0
 product = 90876
 print("LOL HERE IS QUIZ no way u smart enough to win")
 while life > 0:
-    input 
+    input("What is ")

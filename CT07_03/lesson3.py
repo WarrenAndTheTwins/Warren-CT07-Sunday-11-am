@@ -36,7 +36,7 @@ while life > 0:
     else:
         quotient1 = random.randint(2,20)
         quotient2 = random.randint(2,20)
-        questions += (questions)
+        print(questions)
         life = 3
 if questions < 15:
     "YOU NEED TO LEAVE!"

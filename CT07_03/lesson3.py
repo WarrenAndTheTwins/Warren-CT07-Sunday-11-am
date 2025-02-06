@@ -10,4 +10,4 @@ while timer > 0:
 print("U dumdum, so keep studying.")
 
 savings = 0
-savings_today
+savings_today = input("")

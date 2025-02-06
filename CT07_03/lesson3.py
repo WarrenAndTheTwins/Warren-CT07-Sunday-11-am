@@ -9,8 +9,9 @@
 #     timer -= 1
 # print("U dumdum, so keep studying.")
 
-# savings = 0
-# while savings < 100:
-#     savings_today = input("How much you save today?")
-#     savings = savings + float(savings_today)
-# print("U suck. Noone likes u. Your free trial has ended, now you must pay " + str(savings) + " dollars.")
+savings = 0
+while savings < 100:
+    savings_today = input("How much you save today?")
+    savings = savings + float(savings_today)
+    
+print("U suck. Noone likes u. Your free trial has ended, now you must pay " + str(savings) + " dollars.")

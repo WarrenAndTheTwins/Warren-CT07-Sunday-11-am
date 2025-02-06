@@ -21,7 +21,7 @@
 
 import random
 
-life = 3
+life = 1.4
 quotient1 = random.randint(2,20)
 quotient2 = random.randint(2,20)
 questions = 0

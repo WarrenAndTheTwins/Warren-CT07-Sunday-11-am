@@ -13,5 +13,5 @@ savings = 0
 while savings < 100:
     savings_today = input("How much you save today?")
     savings = savings + float(savings_today)
-    print("You have " + float(savings) + " dollars. You have to save " + 100 - float(savings) + " mor monies. You currently have not reached ur goal. You are not cool.")
+    print("You have " + str(savings) + " dollars. You have to save " + (100 - float(savings)) + " mor monies. You currently have not reached ur goal. You are not cool.")
 print("U suck. Noone likes u. Your free trial has ended, now you must pay " + str(savings) + " dollars.")

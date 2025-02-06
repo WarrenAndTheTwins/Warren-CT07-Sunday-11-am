@@ -40,7 +40,7 @@ while life > 0:
         life = 3
 if questions < 15:
     print("YOU NEED TO LEAVE!")
-    
+    print(questions)
 else:
     print("u pretty good!")
 

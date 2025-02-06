@@ -33,4 +33,6 @@ while life > 0:
     if product_lol != product:
         product_lol = input("What is " + quotient1 + " x " + quotient2 + "?")
         life -= 1
+    else:
+        quotient1 = ra
 

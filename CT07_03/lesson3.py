@@ -41,4 +41,4 @@ while life > 0:
 if questions < 15:
     "YOU NEED TO LEAVE!"
 else:
-    ""
+    "u pretty good!"

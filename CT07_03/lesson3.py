@@ -36,4 +36,4 @@ while life > 0:
     else:
         quotient1 = random.randint(2,20)
         quotient2 = random.randint(2,20)
-
+        questions += 1

@@ -10,6 +10,8 @@
 # print("U dumdum, so keep studying.")
 
 savings = 0
+
+
 while savings < 100:
     print("You have " + str(savings) + " dollars. You have to save " + str(100 - float(savings)) + " mor monies. You currently have not reached ur goal. You are not cool.")
     savings_today = input("How much you save today?")

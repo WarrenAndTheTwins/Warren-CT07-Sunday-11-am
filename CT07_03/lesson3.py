@@ -38,4 +38,5 @@ while life > 0:
         quotient2 = random.randint(2,20)
         questions += 1
         life = 3
-
+if questions < 15:
+    ""

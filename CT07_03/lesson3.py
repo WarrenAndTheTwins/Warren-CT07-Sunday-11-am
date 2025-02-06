@@ -43,7 +43,7 @@ while life > 0:
 if questions < 15:
     print("YOU NEED TO LEAVE!")
     print(questions)
-    print(questions/)
+    print(questions/questions + incorrect)
 else:
     print("u pretty good!")
 

@@ -13,4 +13,4 @@ savings = 0
 while savings < 100:
     savings_today = input("How much you save today?")
     savings = savings + int(savings_today)
-print("U suck. Noone likes u. Your free trial has ended, now you must pay 100 dollars.")
+print("U suck. Noone likes u. Your free trial has ended, now you must pay" + savings + " dollars.")

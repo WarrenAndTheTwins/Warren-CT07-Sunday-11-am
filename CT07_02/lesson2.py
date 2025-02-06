@@ -72,116 +72,116 @@ print("Hello from lesson 2")
 #         break
 #     else:
 #         print("Intruder alert. Enter password again")
-# price = 27.50
-# import time
-# import random
-# delivery_time = random.randint(1,4)
-# toppings_list = ""
-# print("Welcome to Big Napoleon's")
-# while True:
-#     topping = input("What topping would you like? Type end to stop.")
-#     if topping == "end":
-#         if price > 0:
-#             print("You have ordered a large pizza with " + toppings_list)
-#             # print("That will be $" + str (price))
-#             print(f'That will be ${price :.2f}, shipping and tax un-included')
-#             while True:
-#                 coupons = input("Do you have any coupons? Redeem them here. Say no to continue on and go directly to payment.")
-#                 if coupons.lower() == "warren":
-#                     price *= 0.75
-#                     print(price)
-#                     input("Alrighty. What's your Credit Card Number? We accept Visa, MasterCard, etc.")
-#                     print("Delivery arriving soon.")
-#                     for i in range(delivery_time,0,-1):
-#                         print (str(i) + " more minutes till delivery.")
-#                         time.sleep (60)
-#                     print("Pizza delivered.")
-#                     print("Time for another pizza!")
-#                     toppings_list = ""
-#                     price = 27.50
-#                     delivery_time = random.randint(1,4)
-#                     break
+price = 27.50
+import time
+import random
+delivery_time = random.randint(1,4)
+toppings_list = ""
+print("Welcome to Big Napoleon's")
+while True:
+    topping = input("What topping would you like? Type end to stop.")
+    if topping == "end":
+        if price > 0:
+            print("You have ordered a large pizza with " + toppings_list)
+            # print("That will be $" + str (price))
+            print(f'That will be ${price :.2f}, shipping and tax un-included')
+            while True:
+                coupons = input("Do you have any coupons? Redeem them here. Say no to continue on and go directly to payment.")
+                if coupons.lower() == "warren":
+                    price *= 0.75
+                    print(price)
+                    input("Alrighty. What's your Credit Card Number? We accept Visa, MasterCard, etc.")
+                    print("Delivery arriving soon.")
+                    for i in range(delivery_time,0,-1):
+                        print (str(i) + " more minutes till delivery.")
+                        time.sleep (60)
+                    print("Pizza delivered.")
+                    print("Time for another pizza!")
+                    toppings_list = ""
+                    price = 27.50
+                    delivery_time = random.randint(1,4)
+                    break
 
                     
-#                 elif coupons.lower() == "shivermetimbers":
-#                     price *= 0.90
-#                     print(price)
-#                     input("Alrighty. What's your Credit Card Number? We accept Visa, MasterCard, etc.")
-#                     print("Delivery arriving soon.")
-#                     for i in range(delivery_time,0,-1):
-#                         print (str(i) + " more minutes till delivery.")
-#                         time.sleep (60)
-#                     print("Pizza delivered.")
-#                     print("Time for another pizza!")
-#                     toppings_list = ""
-#                     price = 27.50
-#                     delivery_time = random.randint(1,4)
-#                     break
+                elif coupons.lower() == "shivermetimbers":
+                    price *= 0.90
+                    print(price)
+                    input("Alrighty. What's your Credit Card Number? We accept Visa, MasterCard, etc.")
+                    print("Delivery arriving soon.")
+                    for i in range(delivery_time,0,-1):
+                        print (str(i) + " more minutes till delivery.")
+                        time.sleep (60)
+                    print("Pizza delivered.")
+                    print("Time for another pizza!")
+                    toppings_list = ""
+                    price = 27.50
+                    delivery_time = random.randint(1,4)
+                    break
             
 
-#                 else:
-#                     input("Alrighty, either you entered an irredeemable code or don't have one. What's your Credit Card Number? We accept Visa, MasterCard, etc.")
-#                     print("Delivery arriving soon.")
-#                     for i in range(delivery_time,0,-1):
-#                         print (str(i) + " more minutes till delivery.")
-#                         time.sleep (60)
-#                     print("Pizza delivered.")
-#                     print("Time for another pizza!")
-#                     toppings_list = ""
-#                     price = 27.50
-#                     delivery_time = random.randint(1,4)
-#                     break
+                else:
+                    input("Alrighty, either you entered an irredeemable code or don't have one. What's your Credit Card Number? We accept Visa, MasterCard, etc.")
+                    print("Delivery arriving soon.")
+                    for i in range(delivery_time,0,-1):
+                        print (str(i) + " more minutes till delivery.")
+                        time.sleep (60)
+                    print("Pizza delivered.")
+                    print("Time for another pizza!")
+                    toppings_list = ""
+                    price = 27.50
+                    delivery_time = random.randint(1,4)
+                    break
             
             
-#         else: 
-#             print("How are you gaining money????")
+        else: 
+            print("How are you gaining money????")
         
-#     else:
-#         toppings_list = toppings_list + topping +", "
-#         if topping.lower() == "nuclear missiles":
-#             price += 8400000
-#         elif topping.lower() == "toyota corolla 2017":
-#             price += 15500
-#         elif topping.lower() == "honda civic 2025":
-#             price += 30500
-#         elif topping.lower() == "acura integra 2025":
-#             price += 33000
-#         elif topping.lower() == "Ultra1Plus Ultracool IAT Universal Antifreeze + Coolant Premixed 50/50 Green 1 us gallon":
-#             price += 6.99
-#         elif topping.lower() == "olives":
-#             price += 1.5
-#         elif topping.lower() == "pepperoni":
-#             price += 1.75
-#         elif topping.lower() == "ham":
-#             price += 1.5
-#         elif topping.lower() == "mushrooms":
-#             price += 1.5
-#         elif topping.lower() == "chicken":
-#             price += 1.75
-#         elif topping.lower() == "pineapple":
-#             price += 2.5
-#         elif topping.lower() == "charlie's flesh":
-#             price += 12
-#         elif topping.lower() == "turtle":
-#             price += 30
-#         else:
-#             call = input("We don't serve that here. Would you like to make a special order for it?")
-#             if call == "yes":
-#                 print("BEEP BEEP...Call Connected")
-#                 time.sleep(2.5)
-#                 print("Hello! The robot said that you wanted to order " + topping + ". We might serve it here; let me double check...")
-#                 time.sleep(3)
-#                 print("DOO DA DOO DEEP DAT DO (hold music)")
-#                 time.sleep(6)
-#                 reasonable_price = input("Found it! How much is this, sir? I'm not quite sure. Name a reasonable price. DO NOT TYPE LETTERS.")
-#                 if int(reasonable_price) <= 0:
-#                     print("I'm sorry, I'm not giving you money; SCAMMER")
-#                     time.sleep(2.5)
-#                     print("BEEP BOOP. hangs up")
-#                 else:
-#                     price += int(reasonable_price)
-#                     time.sleep(2) 
-#                     print("beep boop. Call Ended")
+    else:
+        toppings_list = toppings_list + topping +", "
+        if topping.lower() == "nuclear missiles":
+            price += 8400000
+        elif topping.lower() == "toyota corolla 2017":
+            price += 15500
+        elif topping.lower() == "honda civic 2025":
+            price += 30500
+        elif topping.lower() == "acura integra 2025":
+            price += 33000
+        elif topping.lower() == "Ultra1Plus Ultracool IAT Universal Antifreeze + Coolant Premixed 50/50 Green 1 us gallon":
+            price += 6.99
+        elif topping.lower() == "olives":
+            price += 1.5
+        elif topping.lower() == "pepperoni":
+            price += 1.75
+        elif topping.lower() == "ham":
+            price += 1.5
+        elif topping.lower() == "mushrooms":
+            price += 1.5
+        elif topping.lower() == "chicken":
+            price += 1.75
+        elif topping.lower() == "pineapple":
+            price += 2.5
+        elif topping.lower() == "charlie's flesh":
+            price += 12
+        elif topping.lower() == "turtle":
+            price += 30
+        else:
+            call = input("We don't serve that here. Would you like to make a special order for it?")
+            if call == "yes":
+                print("BEEP BEEP...Call Connected")
+                time.sleep(2.5)
+                print("Hello! The robot said that you wanted to order " + topping + ". We might serve it here; let me double check...")
+                time.sleep(3)
+                print("DOO DA DOO DEEP DAT DO (hold music)")
+                time.sleep(6)
+                reasonable_price = input("Found it! How much is this, sir? I'm not quite sure. Name a reasonable price. DO NOT TYPE LETTERS.")
+                if int(reasonable_price) <= 0:
+                    print("I'm sorry, I'm not giving you money; SCAMMER")
+                    time.sleep(2.5)
+                    print("BEEP BOOP. hangs up")
+                else:
+                    price += int(reasonable_price)
+                    time.sleep(2) 
+                    print("beep boop. Call Ended")
             
 
 

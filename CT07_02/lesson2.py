@@ -182,7 +182,9 @@ while True:
                     price += int(reasonable_price)
                     time.sleep(2) 
                     print("beep boop. Call Ended")
-            
+            else:
+                bujm
+
             
 
 

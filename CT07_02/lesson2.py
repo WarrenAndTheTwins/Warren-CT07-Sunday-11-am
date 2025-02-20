@@ -183,7 +183,7 @@ while True:
                     time.sleep(2) 
                     print("beep boop. Call Ended")
             else:
-                toppings_list - topping = toppings
+                toppings_list - topping = toppings_list
 
             
 

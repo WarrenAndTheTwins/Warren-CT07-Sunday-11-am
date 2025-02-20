@@ -178,6 +178,7 @@ while True:
                     print("I'm sorry, I'm not giving you money; SCAMMER")
                     time.sleep(2.5)
                     print("BEEP BOOP. hangs up")
+                    
                 else:
                     price += int(reasonable_price)
                     time.sleep(2) 

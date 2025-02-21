@@ -185,7 +185,7 @@ while True:
                     time.sleep(2) 
                     print("beep boop. Call Ended")
             else:
-                toppings_list = toppings_list + " wait no, that wasn't ordered"
+                toppings_list = toppings_list + " wait no-that wasn't ordered"
 
             
 

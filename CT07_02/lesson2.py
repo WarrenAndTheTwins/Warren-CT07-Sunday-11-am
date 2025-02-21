@@ -178,14 +178,14 @@ while True:
                     print("I'm sorry, I'm not giving you money; SCAMMER")
                     time.sleep(2.5)
                     print("BEEP BOOP. hangs up")
-                    toppings_list - topping = toppings_list
+                    toppings_list - topping == toppings_list
 
                 else:
                     price += int(reasonable_price)
                     time.sleep(2) 
                     print("beep boop. Call Ended")
             else:
-                toppings_list - topping = toppings_list
+                toppings_list - topping == toppings_list
 
             
 

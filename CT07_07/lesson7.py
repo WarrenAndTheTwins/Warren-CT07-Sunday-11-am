@@ -15,4 +15,4 @@ for student in students:
 
 for i in students:
     print("Name: " + name)
-    print("P")
+    print("Phone")

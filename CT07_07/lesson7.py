@@ -51,13 +51,22 @@
 
 # print("Common Fruits : ", common)
 
-list1 = ["Apple", "Banana", "Cherry", "Durian"]
-list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
+# list1 = ["Apple", "Banana", "Cherry", "Durian"]
+# list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
 
-unique = []
+# unique = []
 
-for fruit in list1:
-    if fruit not in list2:
-        unique.append(fruit)
+# for fruit in list1:
+#     if fruit not in list2:
+#         unique.append(fruit)
 
-print("Unique Fruits : ", unique)
+# print("Unique Fruits : ", unique)
+
+list1 = [1, 2, 3, 4]
+list2 = [5, 6, 7, 8]
+
+# Step 1: Merge the lists using a list comprehension with a condition
+merged_list = [x for x in list1 + list2 if x % 2 == 0]
+
+# Step 2: Print the new list
+print("Merged list with even numbers:", merged_list)

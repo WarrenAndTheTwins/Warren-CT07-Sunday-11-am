@@ -28,4 +28,6 @@ list2 = [6.15, 5.45, 4.20]
 
 ploopy_list = list1 + list2
 
+pllopy_list = sorted(ploopy_list)
+
 print(ploopy_list)

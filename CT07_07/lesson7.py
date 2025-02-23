@@ -7,3 +7,4 @@ student2 = ["Sarah", "87654321", "soccer"]
 student3 = ["Ryan", "13572468", "basketball"]
 
 students.append(student1)
+students.append(student2)

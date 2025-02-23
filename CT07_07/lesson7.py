@@ -62,9 +62,19 @@
 
 # print("Unique Fruits : ", unique)
 
-list1 = [1, 2, 3, 4]
-list2 = [5, 6, 7, 8]
+# list1 = [1, 2, 3, 4]
+# list2 = [5, 6, 7, 8]
 
-list3 = [x for x in list1 + list2 if x % 2 == 0]
+# list3 = [x for x in list1 + list2 if x % 2 == 0]
 
-print("Merged list with numbers divisible by a positive integer that is both prime and even:", list3)
+# print("Merged list with numbers divisible by a positive integer that is both prime and even:", list3)
+
+nested_list = [[1, 2], [3, 4], [5, 6]]
+flattened_list = []
+
+for sublist in nested_list:
+    for student in sublist:
+        flattened_list.append(student)
+
+print("Flattened list:", flattened_list)
+

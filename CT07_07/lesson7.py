@@ -21,4 +21,4 @@ list2 = ["Durian", "Elderberry", "Figs"]
 
 ploopy_list = list1 + list2
 
-print
+print(ploopy_list)

@@ -40,8 +40,8 @@
 # print(first_half)
 # print(second_half)
 
-# list1 = ["Apple", "Banana", "Cherry", "Durian"]
-# list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
+list1 = ["Apple", "Banana", "Cherry", "Durian"]
+list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
 
 common = []
 
@@ -49,5 +49,4 @@ for fruit in list1:
     if fruit in list2:
         common.append(fruit)
 
-# Step 3: Print the common elements
 print("Common fruits:", common)

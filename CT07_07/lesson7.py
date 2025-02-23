@@ -50,3 +50,14 @@
 #         common.append(fruit)
 
 # print("Common Fruits : ", common)
+
+list1 = ["Apple", "Banana", "Cherry", "Durian"]
+list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
+
+common = []
+
+for fruit in list1:
+    if fruit not in list2:
+        common.append(fruit)
+
+print("Common Fruits : ", common)

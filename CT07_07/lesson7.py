@@ -13,7 +13,7 @@ students.append(student3)
 for student in students:
     name, phone_number, hobby = student
 
-for i in students:
+for student in students:
     print("Name: " + name)
     print("Phone Number: " + phone_number)
     print("Hobby: " + hobby)

@@ -70,11 +70,11 @@
 # print("Merged list with numbers divisible by a positive integer that is both prime and even:", list3)
 
 nested_list = [[1, 2], [3, 4], [5, 6]]
-flattened_list = []
+new_list = []
 
 for sublist in nested_list:
     for student in sublist:
-        new.append(student)
+        new_list.append(student)
 
 print("Flattened list:", flattened_list)
 

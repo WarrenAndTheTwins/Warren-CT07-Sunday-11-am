@@ -11,4 +11,4 @@ students.append(student2)
 students.append(student3)
 
 for student in students:
-    name 
+    name, phone_number, 

@@ -40,16 +40,13 @@
 # print(first_half)
 # print(second_half)
 
-list1 = ["Apple", "Banana", "Cherry", "Durian"]
-list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
+# list1 = ["Apple", "Banana", "Cherry", "Durian"]
+# list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
 
-# Step 1: Create an empty list named 'common'
-common = []
+# common = []
 
-# Step 2: Using 'for' loops, append common elements into 'common'
-for fruit in list1:
-    if fruit in list2:
-        common.append(fruit)
+# for fruit in list1:
+#     if fruit in list2:
+#         common.append(fruit)
 
-# Step 3: Print the common elements
-print("Common fruits:", common)
+# print("Common Fruits : ", common)

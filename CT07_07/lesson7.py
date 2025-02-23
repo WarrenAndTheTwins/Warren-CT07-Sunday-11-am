@@ -32,3 +32,5 @@
 
 # print(pllopy_list)
 
+list1 = ["Apple", "Banana", "Cherry"]
+list2 = ["Durian", "Elderberry", "Figs"]

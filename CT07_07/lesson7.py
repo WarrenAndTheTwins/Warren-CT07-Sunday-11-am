@@ -67,4 +67,4 @@ list2 = [5, 6, 7, 8]
 
 list3 = [x for x in list1 + list2 if x % 2 == 0]
 
-print("Merged list with even numbers:", list3)
+print("Merged list with numbers divisible by a :", list3)

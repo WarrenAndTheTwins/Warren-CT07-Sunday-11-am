@@ -49,4 +49,4 @@ for fruit in list1:
     if fruit in list2:
         common.append(fruit)
 
-print("Common fruits:", common)
+print("Common fruits: ", common)

@@ -72,7 +72,7 @@
 nested_list = [[1, 2], [3, 4], [5, 6]]
 new_list = []
 
-for sublist in nested_list:
+for minilist in nested_list:
     for student in minilist:
         new_list.append(student)
 

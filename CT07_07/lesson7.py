@@ -14,4 +14,5 @@ for student in students:
     name, phone_number, hobby = student
 
 for i in students:
-    print("Name: " )
+    print("Name: " + name)
+    print()

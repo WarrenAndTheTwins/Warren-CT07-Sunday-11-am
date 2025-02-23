@@ -36,3 +36,5 @@ list = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
 
 first_half = list[:3]
 second_half = list[3:]
+
+print(first_half)

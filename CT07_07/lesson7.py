@@ -43,10 +43,8 @@
 # list1 = ["Apple", "Banana", "Cherry", "Durian"]
 # list2 = ["Cherry", "Durian", "Elderberry", "Figs"]
 
-# Step 1: Create an empty list named 'common'
 common = []
 
-# Step 2: Using 'for' loops, append common elements into 'common'
 for fruit in list1:
     if fruit in list2:
         common.append(fruit)

@@ -65,8 +65,6 @@
 list1 = [1, 2, 3, 4]
 list2 = [5, 6, 7, 8]
 
-# Step 1: Merge the lists using a list comprehension with a condition
 merged_list = [x for x in list1 + list2 if x % 2 == 0]
 
-# Step 2: Print the new list
 print("Merged list with even numbers:", merged_list)

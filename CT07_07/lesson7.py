@@ -34,4 +34,4 @@
 
 list = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
 
-first_half = list
+first_half = list[:3]

@@ -24,7 +24,7 @@
 # print(ploopy_list)
 
 list1 = ["Apple", "Banana", "Cherry"]
-list2 = ["Durian", "Elderberry", "Figs"]
+list2 = []
 
 ploopy_list = list1 + list2
 

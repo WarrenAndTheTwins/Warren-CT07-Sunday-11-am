@@ -23,11 +23,11 @@
 
 # print(ploopy_list)
 
-list1 = [3.20, 2.65, 1.75]
-list2 = [6.15, 5.45, 4.20]
+# list1 = [3.20, 2.65, 1.75]
+# list2 = [6.15, 5.45, 4.20]
 
-ploopy_list = list1 + list2
+# ploopy_list = list1 + list2
 
-pllopy_list = sorted(ploopy_list)
+# pllopy_list = sorted(ploopy_list)
 
-print(pllopy_list)
+# print(pllopy_list)

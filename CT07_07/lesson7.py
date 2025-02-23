@@ -85,4 +85,4 @@ print(potato)
 potati = students[3:6]
 print(potati)
 potata = students[6:9]
-
+print(potata)

@@ -58,6 +58,6 @@ unique = []
 
 for fruit in list1:
     if fruit not in list2:
-        common.append(fruit)
+        unique.append(fruit)
 
-print("Unique Fruits : ", common)
+print("Unique Fruits : ", unique)

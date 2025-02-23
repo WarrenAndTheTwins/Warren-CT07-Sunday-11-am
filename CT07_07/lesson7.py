@@ -19,4 +19,6 @@
 list1 = ["Apple", "Banana", "Cherry"]
 list2 = ["Durian", "Elderberry", "Figs"]
 
-ploopy_list = list1 
+ploopy_list = list1 + list2
+
+print

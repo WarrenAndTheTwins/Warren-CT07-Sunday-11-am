@@ -34,3 +34,4 @@
 
 list = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
 
+first_half = list

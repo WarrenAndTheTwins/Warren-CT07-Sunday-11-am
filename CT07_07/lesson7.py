@@ -82,5 +82,6 @@ students = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 potato = students[:3]
 print(potato)
-potati = students[:6]
+potati = students[3:6]
+print(potati)
 

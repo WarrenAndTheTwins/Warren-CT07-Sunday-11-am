@@ -74,7 +74,7 @@ flattened_list = []
 
 for sublist in nested_list:
     for student in sublist:
-        flattened_list.append(student)
+        new.append(student)
 
 print("Flattened list:", flattened_list)
 

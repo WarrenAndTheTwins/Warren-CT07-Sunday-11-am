@@ -73,8 +73,8 @@ nested_list = [[1, 2], [3, 4], [5, 6]]
 new_list = []
 
 for sublist in nested_list:
-    for student in sublist:
+    for student in minilist:
         new_list.append(student)
 
-print("Flattened list:", flattened_list)
+print("Flattened list:", new_list)
 

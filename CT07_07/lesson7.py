@@ -103,4 +103,6 @@ print(pronunciation)
 spelling = input("Spell!")
 
 if spelling == wordlol:
-    print()
+    print("Yay!")
+else 
+    print("Nope.")

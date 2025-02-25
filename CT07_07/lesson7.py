@@ -90,5 +90,5 @@
 spelling_bee = [
     [1, "besieged", "/bəˈsējd/"]
     [2, "caffeine", "/kaˈfēn/"]
-    [3, "cameist", "kˈame͡ɪst"]
+    [3, "cameist", "kˈame͡ɪst" ]
 ]

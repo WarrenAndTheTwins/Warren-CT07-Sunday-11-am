@@ -104,5 +104,5 @@ spelling = input("Spell!")
 
 if spelling == wordlol:
     print("Yay!")
-else 
+else:
     print("Nope.")

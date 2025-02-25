@@ -101,3 +101,6 @@ wordlol, pronunciation = random_word
 print(pronunciation)
 
 spelling = input("Spell!")
+
+if spelling == wordlol:
+    print()

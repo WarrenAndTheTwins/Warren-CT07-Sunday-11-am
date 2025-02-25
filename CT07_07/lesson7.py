@@ -98,5 +98,5 @@ spelling_bee = [
 for word in spelling_bee:
     wordlol, pronunciation = word
 
-spelling_bee.index(random.randint(0,2))
+spelling_bee.index(random.randint(1,3))
 print(pronunciation)

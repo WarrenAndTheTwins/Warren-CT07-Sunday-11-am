@@ -96,6 +96,6 @@ spelling_bee = [
 ]
 
 for word in spelling_bee:
-    Word, pronunciation
+    wordlol, pronunciation = word
 
 spelling_bee.index(random.randint(0,2))

@@ -92,7 +92,7 @@ import random
 spelling_bee = [
     ["besieged", "/bəˈsējd/"]
     ["caffeine", "/kaˈfēn/"]
-    ["cameist", "kˈame͡ɪst" ]
+    ["cameist", "kame͡st" ]
 ]
 
 for word in spelling_bee:

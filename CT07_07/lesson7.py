@@ -91,7 +91,7 @@ import random
 
 spelling_bee = [
     ["besieged", "busejd"],
-    ["caffeine", "kafeen"],
+    ["caffeine", "/ˈkæf.iːn/"],
     ["cameist", "/ˈkeɪ.mɪst/"],
     ["deceitful", "/dɪˈsiːt.fəl/"]
 ]

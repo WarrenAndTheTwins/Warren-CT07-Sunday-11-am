@@ -95,4 +95,4 @@ spelling_bee = [
     ["cameist", "kˈame͡ɪst" ]
 ]
 
-sleindex(random.randint)
+spelling_bee.index(random.randint())

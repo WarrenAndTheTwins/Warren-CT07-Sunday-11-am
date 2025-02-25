@@ -102,9 +102,9 @@ while True:
 
     print(pronunciation)
 
-spelling = input("Spell!")
+    spelling = input("Spell!")
 
-if spelling == wordlol:
-    print("Yay!")
-else:
-    print("Nope.")
+    if spelling == wordlol:
+        print("Yay!")
+    else:
+        print("Nope.")

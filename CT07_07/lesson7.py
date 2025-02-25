@@ -78,11 +78,13 @@
 
 # print("Flattened list:", new_list)
 
-students = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+# students = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-potato = students[:3]
-print(potato)
-potati = students[3:6]
-print(potati)
-potata = students[6:9]
-print(potata)
+# potato = students[:3]
+# print(potato)
+# potati = students[3:6]
+# print(potati)
+# potata = students[6:9]
+# print(potata)
+
+

@@ -95,4 +95,7 @@ spelling_bee = [
     ["cameist", "kˈame͡ɪst" ]
 ]
 
+for word in spelling_bee:
+    word = 
+
 spelling_bee.index(random.randint(0,2))

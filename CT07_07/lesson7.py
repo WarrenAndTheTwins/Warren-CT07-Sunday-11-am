@@ -93,7 +93,7 @@ spelling_bee = [
     ["besieged", "busejd"],
     ["caffeine", "kafeen"],
     ["cameist", "kameist"],
-    
+    []
 ]
 
 while True:

@@ -93,4 +93,4 @@ spelling_bee = [
     ["cameist", "kˈame͡ɪst" ]
 ]
 
-
+index(random.ra)

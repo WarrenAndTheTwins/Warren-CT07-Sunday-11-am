@@ -90,10 +90,11 @@
 import random
 
 spelling_bee = [
-    ["besieged", "busejd"],
+    ["besieged", "/bɪˈsiːdʒd/"],
     ["caffeine", "/ˈkæf.iːn/"],
     ["cameist", "/ˈkeɪ.mɪst/"],
-    ["deceitful", "/dɪˈsiːt.fəl/"]
+    ["deceitful", "/dɪˈsiːt.fəl/"],
+
 ]
 
 while True:

@@ -95,8 +95,9 @@ spelling_bee = [
     ["cameist", "kameist" ],
 ]
 
-for word in spelling_bee:
-    wordlol, pronunciation = word
+random_word = random.choice(spelling_bee)
+wordlol, pronunciation = random_word
 
-spelling_bee.index(random.randint(1,3))
 print(pronunciation)
+
+input

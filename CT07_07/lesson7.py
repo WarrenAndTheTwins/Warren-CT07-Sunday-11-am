@@ -94,7 +94,7 @@ spelling_bee = [
     ["caffeine", "/ˈkæf.iːn/"],
     ["cameist", "/ˈkeɪ.mɪst/"],
     ["deceitful", "/dɪˈsiːt.fəl/"],
-    ["Ho"]
+    ["Holstein", ]
 
 ]
 

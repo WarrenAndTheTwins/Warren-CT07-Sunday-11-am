@@ -87,7 +87,7 @@
 # potata = students[6:9]
 # print(potata)
 
-import Ra
+import random
 
 spelling_bee = [
     ["besieged", "/bəˈsējd/"]

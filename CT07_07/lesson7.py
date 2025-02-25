@@ -88,5 +88,5 @@
 # print(potata)
 
 spelling_bee = [
-    
+    [1, ]
 ]

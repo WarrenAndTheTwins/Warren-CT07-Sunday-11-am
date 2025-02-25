@@ -87,6 +87,8 @@
 # potata = students[6:9]
 # print(potata)
 
+import Ra
+
 spelling_bee = [
     ["besieged", "/bəˈsējd/"]
     ["caffeine", "/kaˈfēn/"]

@@ -100,4 +100,4 @@ wordlol, pronunciation = random_word
 
 print(pronunciation)
 
-input("Spell!")
+spelling = input("Spell!")

@@ -89,5 +89,5 @@
 
 spelling_bee = [
     [1, "besieged", "/bəˈsējd/"]
-    [2, "caffeine", ""]
+    [2, "caffeine", "/kaˈfēn/"]
 ]

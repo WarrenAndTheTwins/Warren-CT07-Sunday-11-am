@@ -87,4 +87,6 @@
 # potata = students[6:9]
 # print(potata)
 
-
+spelling_bee = [
+    
+]

@@ -88,6 +88,6 @@
 # print(potata)
 
 spelling_bee = [
-    [1, "besieged"]
+    [1, "besieged", "/bəˈsējd/"]
     [2, "caffeine"]
 ]

@@ -95,10 +95,12 @@ spelling_bee = [
     ["cameist", "kameist" ],
 ]
 
-random_word = random.choice(spelling_bee)
-wordlol, pronunciation = random_word
+while True:
 
-print(pronunciation)
+    random_word = random.choice(spelling_bee)
+    wordlol, pronunciation = random_word
+
+    print(pronunciation)
 
 spelling = input("Spell!")
 

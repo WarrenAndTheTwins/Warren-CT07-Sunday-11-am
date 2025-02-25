@@ -88,5 +88,6 @@
 # print(potata)
 
 spelling_bee = [
-    [1, ]
+    [1, "besieged"]
+    [2, ]
 ]

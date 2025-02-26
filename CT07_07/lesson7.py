@@ -104,7 +104,7 @@ spelling_bee = [
     ["Rein", "/reɪn/"],
     ["feign", "/feɪn/"],
     ["reveille", "/ˈrɛvəli/"],
-    ["Seismic", "/ˈsaɪzmɪk/"],
+    ["seismic", "/ˈsaɪzmɪk/"],
     ["Rietveld", "/ˈritfɛld/"],
     ["Deictic", "/ˈdaɪktɪk/"],
     ["Einsteinian", "/ˌaɪnˈstaɪniən/"],
@@ -113,8 +113,8 @@ spelling_bee = [
     ["Zeitgeber", "/ˈtsaɪtˌɡeɪbər/"],
     ["Beige", "/beɪʒ/"],
     ["Riesling", "/ˈriːslɪŋ/"],
-    ["Eidetic", "/aɪˈdɛtɪk/"]
-    ["Surveil", "/sərˈveɪl/"]
+    ["Eidetic", "/aɪˈdɛtɪk/"],
+    ["Surveil", "/sərˈveɪl/"],
     ["Feint", "/feɪnt/"]
 ]
 

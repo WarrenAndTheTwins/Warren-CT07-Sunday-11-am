@@ -115,7 +115,8 @@ spelling_bee = [
     ["riesling", "/ˈriːslɪŋ/"],
     ["eidetic", "/aɪˈdɛtɪk/"],
     ["surveil", "/sərˈveɪl/"],
-    ["feint", "/feɪnt/"]
+    ["feint", "/feɪnt/"],
+    ["Seigneur", "/seɪˈnjʊər/"]
 ]
 
 while True:

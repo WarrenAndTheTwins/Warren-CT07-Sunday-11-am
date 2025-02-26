@@ -110,7 +110,18 @@ spelling_bee = [
     ["Einsteinian", "/ˌaɪnˈstaɪniən/"],
     ["Eiderdown", "/ˈaɪdərdaʊn/"],
     ["Rietveld", "/ˈritfɛld/"],
+    ["Zeitgeber", "/ˈtsaɪtˌɡeɪbər/"]
     
+
+["Beige", "/beɪʒ/"]
+
+["Riesling", "/ˈriːslɪŋ/"]
+
+["Eidetic", "/aɪˈdɛtɪk/"]
+
+["Surveil", "/sərˈveɪl/"]
+
+["Feint", "/feɪnt/"]
 ]
 
 while True:

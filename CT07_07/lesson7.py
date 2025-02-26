@@ -128,7 +128,8 @@ spelling_bee = [
     ["skibidi", "/ˈskɪbɪdi/"],
     ["calvities", "/kælˈvɪʃiːiːz/"],
     ["caesious", "/ˈsiːʒəs/"],
-    ["objet d'art", "/ɔbʒɛ d‿aʁ/"]
+    ["objet d'art", "/ɔbʒɛ d‿aʁ/"],
+    [""]
 
 ]
 

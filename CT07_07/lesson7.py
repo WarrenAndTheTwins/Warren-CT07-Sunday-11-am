@@ -99,7 +99,7 @@ spelling_bee = [
     ["Seize",  "/siːz/"],
     ["Weird", "/wɪrd/"],
     ["Leisure", "/ˈliːʒər/"],
-    
+    ["Conceit" - "/kənˈsiːt/"]
 
 ]
 

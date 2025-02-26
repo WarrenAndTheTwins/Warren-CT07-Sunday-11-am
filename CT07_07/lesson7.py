@@ -134,7 +134,7 @@ spelling_bee = [
     ["calusar", "/kəˈluːʃɑːr/"],
     ["cirri", "/ˈsɜːr.aɪ/"],
     ["bessemer", "/ˈbɛs.ə.mər/"],
-    ["concours", ""]
+    ["concours", "/kɔŋˈkʊr/"]
 
 
 ]

@@ -108,6 +108,7 @@ spelling_bee = [
     ["Rietveld", "/ˈritfɛld/"],
     ["Deictic", "/ˈdaɪktɪk/"],
     ["Einsteinian", "/ˌaɪnˈstaɪniən/"],
+    ["Eiderdown", "/ˈaɪdərdaʊn/"],
     
 ]
 

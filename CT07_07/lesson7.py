@@ -104,7 +104,7 @@ spelling_bee = [
     ["Rein", "/reɪn/"],
     ["feign", "/feɪn/"],
     ["reveille", "/ˈrɛvəli/"],
-    ["Reveille" - "/ˈrɛvəli/"]
+    ["Reveille", "/ˈrɛvəli/"]
 
 ]
 

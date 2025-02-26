@@ -128,6 +128,7 @@ spelling_bee = [
     ["skibidi", "/ˈskɪbɪdi/"],
     ["calvities", "/kælˈvɪʃiːiːz/"],
     ["caesious", "/ˈsiːʒəs/"],
+    []
 
 ]
 

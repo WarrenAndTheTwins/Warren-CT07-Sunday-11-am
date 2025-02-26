@@ -105,6 +105,8 @@ spelling_bee = [
     ["feign", "/feɪn/"],
     ["reveille", "/ˈrɛvəli/"],
     ["Seismic", "/ˈsaɪzmɪk/"],
+    ["Rietveld", "/ˈritfɛld/"],
+    ["Deictic", "/ˈdaɪktɪk/"],
     
 ]
 

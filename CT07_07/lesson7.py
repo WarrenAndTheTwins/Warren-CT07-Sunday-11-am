@@ -129,7 +129,8 @@ spelling_bee = [
     ["calvities", "/kælˈvɪʃiːiːz/"],
     ["caesious", "/ˈsiːʒəs/"],
     ["objet d'art", "/ɔbʒɛ d‿aʁ/"],
-    ["chauve-souris", ]
+    ["chauve-souris", "/ʃoʊv.suˈriː/"]
+    
 
 ]
 

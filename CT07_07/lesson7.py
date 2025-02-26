@@ -127,6 +127,7 @@ spelling_bee = [
     ["supercalifragilisticexpialidocious", "/ˌso͞opərˌkaləˌfrajəˌlistikˌekspēˌaləˈdōSHəs/"],
     ["skibidi", "/ˈskɪbɪdi/"],
     ["calvities", "/kælˈvɪʃiːiːz/"],
+    ["caesious"]
 
 ]
 

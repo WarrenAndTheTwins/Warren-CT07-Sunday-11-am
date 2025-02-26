@@ -102,8 +102,8 @@ spelling_bee = [
     ["conceit", "/kənˈsiːt/"],
     ["perceive", "/pərˈsiːv/"],
     ["Rein", "/reɪn/"],
-    ["Feign", "/feɪn/"],
-    ["Reveille""/ˈrɛvəli/"]
+    ["feign", "/feɪn/"],
+    ["reveille", "/ˈrɛvəli/"]
 
 ]
 

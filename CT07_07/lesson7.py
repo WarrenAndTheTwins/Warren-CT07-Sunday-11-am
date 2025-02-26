@@ -120,11 +120,8 @@ spelling_bee = [
     ["Eisteddfod", "/aɪˈstɛðfəd/"]
 
 ["Seigniorage", "/ˈseɪnjərɪdʒ/"]
-
 ["Weimaraner", "/ˈvaɪmərɑːnər/"]
-
 ["Lieutenant", "/lɛfˈtɛnənt/"]
-
 ["Heifer", "/ˈhɛfər/"]
 ["Sheikhdom", "/ˈʃeɪkˌdʌm/"]
 ["Chaliced", "/ˈkælɪst/"]

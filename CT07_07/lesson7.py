@@ -117,14 +117,13 @@ spelling_bee = [
     ["surveil", "/sərˈveɪl/"],
     ["feint", "/feɪnt/"],
     ["seigneur", "/seɪˈnjʊər/"],
-    ["Eisteddfod", "/aɪˈstɛðfəd/"]
-    ["Seigniorage", "/ˈseɪnjərɪdʒ/"]
-    ["Weimaraner", "/ˈvaɪmərɑːnər/"]
-    ["Lieutenant", "/lɛfˈtɛnənt/"]
+    ["Eisteddfod", "/aɪˈstɛðfəd/"],
+    ["Seigniorage", "/ˈseɪnjərɪdʒ/",]
+    ["Weimaraner", "/ˈvaɪmərɑːnər/"],
+    ["Lieutenant", "/lɛfˈtɛnənt/"],
     ["Heifer", "/ˈhɛfər/"]
     ["Sheikhdom", "/ˈʃeɪkˌdʌm/"]
     ["Chaliced", "/ˈkælɪst/"]
-
 
 ]
 

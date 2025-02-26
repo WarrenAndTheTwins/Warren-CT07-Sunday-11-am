@@ -125,7 +125,7 @@ spelling_bee = [
     ["sheikhdom", "/ˈʃeɪkˌdʌm/"],
     ["chaliced", "/ˈkælɪst/"],
     ["supercalifragilisticexpialidocious", "/ˌso͞opərˌkaləˌfrajəˌlistikˌekspēˌaləˈdōSHəs/"],
-    ["skibidi", "/ˈskɪbɪdi/"]
+    ["skibidi", "/ˈskɪbɪdi/"],
 
 ]
 

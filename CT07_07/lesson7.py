@@ -123,7 +123,7 @@ spelling_bee = [
     ["lieutenant", "/lɛfˈtɛnənt/"],
     ["heifer", "/ˈhɛfər/"],
     ["sheikhdom", "/ˈʃeɪkˌdʌm/"],
-    ["Chaliced", "/ˈkælɪst/"],
+    ["chaliced", "/ˈkælɪst/"],
 
 ]
 

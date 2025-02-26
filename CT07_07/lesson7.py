@@ -101,7 +101,7 @@ spelling_bee = [
     ["leisure", "/ˈliːʒər/"],
     ["conceit", "/kənˈsiːt/"],
     ["perceive", "/pərˈsiːv/"],
-    ["Rein", "/reɪn/"],
+    ["rein", "/reɪn/"],
     ["feign", "/feɪn/"],
     ["reveille", "/ˈrɛvəli/"],
     ["seismic", "/ˈsaɪzmɪk/"],

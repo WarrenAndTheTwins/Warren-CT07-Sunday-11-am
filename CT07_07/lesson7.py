@@ -116,7 +116,7 @@ spelling_bee = [
     ["eidetic", "/aɪˈdɛtɪk/"],
     ["surveil", "/sərˈveɪl/"],
     ["feint", "/feɪnt/"],
-    ["Seigneur", "/seɪˈnjʊər/"]
+    ["seigneur", "/seɪˈnjʊər/"]
 ]
 
 while True:

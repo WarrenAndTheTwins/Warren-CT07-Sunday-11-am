@@ -111,11 +111,8 @@ spelling_bee = [
     ["Eiderdown", "/ˈaɪdərdaʊn/"],
     ["Rietveld", "/ˈritfɛld/"],
     ["Zeitgeber", "/ˈtsaɪtˌɡeɪbər/"]
-    
-
-["Beige", "/beɪʒ/"]
-
-["Riesling", "/ˈriːslɪŋ/"]
+    ["Beige", "/beɪʒ/"]
+    ["Riesling", "/ˈriːslɪŋ/"]
 
 ["Eidetic", "/aɪˈdɛtɪk/"]
 

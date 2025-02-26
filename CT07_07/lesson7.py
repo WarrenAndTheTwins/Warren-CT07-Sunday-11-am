@@ -103,7 +103,8 @@ spelling_bee = [
     ["perceive", "/pərˈsiːv/"],
     ["Rein", "/reɪn/"],
     ["feign", "/feɪn/"],
-    ["reveille", "/ˈrɛvəli/"]
+    ["reveille", "/ˈrɛvəli/"],
+    ["Reveille" - "/ˈrɛvəli/"]
 
 ]
 

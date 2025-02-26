@@ -135,7 +135,7 @@ spelling_bee = [
     ["cirri", "/ˈsɜːr.aɪ/"],
     ["bessemer", "/ˈbɛs.ə.mər/"],
     ["concours", "/kɔŋˈkʊr/"],
-    ["chevrotain", ""]
+    ["chevrotain", "/ˈʃɛv.rə.teɪn/"]
 ]
 
 while True:

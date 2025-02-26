@@ -98,7 +98,8 @@ spelling_bee = [
     ["Neighbor", "/ˈneɪbər/"],
     ["Seize",  "/siːz/"],
     ["Weird", "/wɪrd/"],
-    ["Leisure" - "/ˈliːʒər/"]
+    ["Leisure", "/ˈliːʒər/"],
+    
 
 ]
 

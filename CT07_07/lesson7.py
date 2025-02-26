@@ -100,7 +100,7 @@ spelling_bee = [
     ["weird", "/wɪrd/"],
     ["leisure", "/ˈliːʒər/"],
     ["conceit", "/kənˈsiːt/"],
-    ["Perceive" - "/pərˈsiːv/"]
+    ["perceive", "/pərˈsiːv/"],
 
 ]
 

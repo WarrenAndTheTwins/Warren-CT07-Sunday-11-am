@@ -114,10 +114,8 @@ spelling_bee = [
     ["Beige", "/beɪʒ/"],
     ["Riesling", "/ˈriːslɪŋ/"],
     ["Eidetic", "/aɪˈdɛtɪk/"]
-
-["Surveil", "/sərˈveɪl/"]
-
-["Feint", "/feɪnt/"]
+    ["Surveil", "/sərˈveɪl/"]
+    ["Feint", "/feɪnt/"]
 ]
 
 while True:

@@ -133,7 +133,7 @@ spelling_bee = [
     ["conteur", "/kɔ̃.tœʁ/"],
     ["calusar", "/kəˈluːʃɑːr/"],
     ["cirri", "/ˈsɜːr.aɪ/"],
-    
+    ["bessemer"]
 
 
 ]

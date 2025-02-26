@@ -97,7 +97,7 @@ spelling_bee = [
     ["Holstein", "/ˈhoʊl.staɪn/"],
     ["Neighbor", "/ˈneɪbər/"],
     ["Seize",  "/siːz/"],
-    
+    ["Weird", "/wɪrd/"]
 
 ]
 

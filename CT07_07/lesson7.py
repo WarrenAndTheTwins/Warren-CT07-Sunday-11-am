@@ -96,7 +96,8 @@ spelling_bee = [
     ["deceitful", "/dɪˈsiːt.fəl/"],
     ["Holstein", "/ˈhoʊl.staɪn/"],
     ["Neighbor", "/ˈneɪbər/"],
-    ["Seize",  "/siːz/"]
+    ["Seize",  "/siːz/"],
+    
 
 ]
 

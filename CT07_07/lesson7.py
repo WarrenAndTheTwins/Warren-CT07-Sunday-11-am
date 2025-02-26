@@ -113,9 +113,9 @@ spelling_bee = [
     ["zeitgeber", "/ˈtsaɪtˌɡeɪbər/"],
     ["beige", "/beɪʒ/"],
     ["riesling", "/ˈriːslɪŋ/"],
-    ["Eidetic", "/aɪˈdɛtɪk/"],
-    ["Surveil", "/sərˈveɪl/"],
-    ["Feint", "/feɪnt/"]
+    ["eidetic", "/aɪˈdɛtɪk/"],
+    ["surveil", "/sərˈveɪl/"],
+    ["feint", "/feɪnt/"]
 ]
 
 while True:

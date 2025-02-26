@@ -104,8 +104,8 @@ spelling_bee = [
     ["Rein", "/reɪn/"],
     ["feign", "/feɪn/"],
     ["reveille", "/ˈrɛvəli/"],
-    ["Reveille", "/ˈrɛvəli/"]
-
+    ["Seismic", "/ˈsaɪzmɪk/"],
+    
 ]
 
 while True:

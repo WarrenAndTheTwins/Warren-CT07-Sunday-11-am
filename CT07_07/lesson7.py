@@ -94,10 +94,10 @@ spelling_bee = [
     ["caffeine", "/ˈkæf.iːn/"],
     ["cameist", "/ˈkeɪ.mɪst/"],
     ["deceitful", "/dɪˈsiːt.fəl/"],
-    ["Holstein", "/ˈhoʊl.staɪn/"],
-    ["Neighbor", "/ˈneɪbər/"],
-    ["Seize",  "/siːz/"],
-    ["Weird", "/wɪrd/"],
+    ["holstein", "/ˈhoʊl.staɪn/"],
+    ["neighbor", "/ˈneɪbər/"],
+    ["seize",  "/siːz/"],
+    ["weird", "/wɪrd/"],
     ["Leisure", "/ˈliːʒər/"],
     ["Conceit", "/kənˈsiːt/"]
 

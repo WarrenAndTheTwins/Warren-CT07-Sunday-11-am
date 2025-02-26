@@ -140,4 +140,4 @@ while True:
         print("Yay!")
     else:
         print("Nope.")
-        print()
+        print(wordlol)

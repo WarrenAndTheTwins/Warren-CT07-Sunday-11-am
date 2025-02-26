@@ -95,7 +95,7 @@ spelling_bee = [
     ["cameist", "/ˈkeɪ.mɪst/"],
     ["deceitful", "/dɪˈsiːt.fəl/"],
     ["Holstein", "/ˈhoʊl.staɪn/"]
-    ["Neighbor - /ˈneɪbər/"]
+    ["Neighbor", "/ˈneɪbər/"]
 
 ]
 

@@ -107,6 +107,7 @@ spelling_bee = [
     ["Seismic", "/ˈsaɪzmɪk/"],
     ["Rietveld", "/ˈritfɛld/"],
     ["Deictic", "/ˈdaɪktɪk/"],
+    ["Einsteinian", "/ˌaɪnˈstaɪniən/"],
     
 ]
 

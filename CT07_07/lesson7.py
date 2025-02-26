@@ -126,10 +126,7 @@ spelling_bee = [
 ["Lieutenant", "/lɛfˈtɛnənt/"]
 
 ["Heifer", "/ˈhɛfər/"]
-
 ["Sheikhdom", "/ˈʃeɪkˌdʌm/"]
-
-["Dehiscence", "/dɪˈhɪsəns/"]
 ["Chaliced", "/ˈkælɪst/"]
 
 

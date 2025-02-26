@@ -132,7 +132,8 @@ spelling_bee = [
     ["chauve-souris", "/ʃoʊv.suˈriː/"],
     ["conteur", "/kɔ̃.tœʁ/"],
     ["calusar", "/kəˈluːʃɑːr/"],
-    ["cirri", ""]
+    ["cirri", "/ˈsɜːr.aɪ/"],
+    
 
 
 ]

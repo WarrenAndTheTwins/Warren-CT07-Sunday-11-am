@@ -112,7 +112,7 @@ spelling_bee = [
     ["rietveld", "/ˈritfɛld/"],
     ["zeitgeber", "/ˈtsaɪtˌɡeɪbər/"],
     ["beige", "/beɪʒ/"],
-    ["Riesling", "/ˈriːslɪŋ/"],
+    ["riesling", "/ˈriːslɪŋ/"],
     ["Eidetic", "/aɪˈdɛtɪk/"],
     ["Surveil", "/sərˈveɪl/"],
     ["Feint", "/feɪnt/"]

@@ -131,7 +131,8 @@ spelling_bee = [
     ["objet d'art", "/ɔbʒɛ d‿aʁ/"],
     ["chauve-souris", "/ʃoʊv.suˈriː/"],
     ["conteur", "/kɔ̃.tœʁ/"],
-    ["calusar", "/kəˈluːʃɑːr/"]
+    ["calusar", "/kəˈluːʃɑːr/"],
+
 
 ]
 

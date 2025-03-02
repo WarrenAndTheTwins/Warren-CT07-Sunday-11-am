@@ -87,68 +87,68 @@
 # potata = students[6:9]
 # print(potata)
 
-import random
+# import random
 
-spelling_bee = [
-    ["besieged", "/bɪˈsiːdʒd/"],
-    ["caffeine", "/ˈkæf.iːn/"],
-    ["cameist", "/ˈkeɪ.mɪst/"],
-    ["deceitful", "/dɪˈsiːt.fəl/"],
-    ["holstein", "/ˈhoʊl.staɪn/"],
-    ["neighbor", "/ˈneɪbər/"],
-    ["seize",  "/siːz/"],
-    ["weird", "/wɪrd/"],
-    ["leisure", "/ˈliːʒər/"],
-    ["conceit", "/kənˈsiːt/"],
-    ["perceive", "/pərˈsiːv/"],
-    ["rein", "/reɪn/"],
-    ["feign", "/feɪn/"],
-    ["reveille", "/ˈrɛvəli/"],
-    ["seismic", "/ˈsaɪzmɪk/"],
-    ["rietveld", "/ˈritfɛld/"],
-    ["deictic", "/ˈdaɪktɪk/"],
-    ["einsteinian", "/ˌaɪnˈstaɪniən/"],
-    ["eiderdown", "/ˈaɪdərdaʊn/"],
-    ["rietveld", "/ˈritfɛld/"],
-    ["zeitgeber", "/ˈtsaɪtˌɡeɪbər/"],
-    ["beige", "/beɪʒ/"],
-    ["riesling", "/ˈriːslɪŋ/"],
-    ["eidetic", "/aɪˈdɛtɪk/"],
-    ["surveil", "/sərˈveɪl/"],
-    ["feint", "/feɪnt/"],
-    ["seigneur", "/seɪˈnjʊər/"],
-    ["eisteddfod", "/aɪˈstɛðfəd/"],
-    ["seigniorage", "/ˈseɪnjərɪdʒ/"],
-    ["weimaraner", "/ˈvaɪmərɑːnər/"],
-    ["lieutenant", "/lɛfˈtɛnənt/"],
-    ["heifer", "/ˈhɛfər/"],
-    ["sheikhdom", "/ˈʃeɪkˌdʌm/"],
-    ["chaliced", "/ˈkælɪst/"],
-    ["supercalifragilisticexpialidocious", "/ˌso͞opərˌkaləˌfrajəˌlistikˌekspēˌaləˈdōSHəs/"],
-    ["skibidi", "/ˈskɪbɪdi/"],
-    ["calvities", "/kælˈvɪʃiːiːz/"],
-    ["caesious", "/ˈsiːʒəs/"],
-    ["objet d'art", "/ɔbʒɛ d‿aʁ/"],
-    ["chauve-souris", "/ʃoʊv.suˈriː/"],
-    ["conteur", "/kɔ̃.tœʁ/"],
-    ["calusar", "/kəˈluːʃɑːr/"],
-    ["cirri", "/ˈsɜːr.aɪ/"],
-    ["bessemer", "/ˈbɛs.ə.mər/"],
-    ["concours", "/kɔŋˈkʊr/"],
-    ["chevrotain", "/ˈʃɛv.rə.teɪn/"]3
-]
+# spelling_bee = [
+#     ["besieged", "/bɪˈsiːdʒd/"],
+#     ["caffeine", "/ˈkæf.iːn/"],
+#     ["cameist", "/ˈkeɪ.mɪst/"],
+#     ["deceitful", "/dɪˈsiːt.fəl/"],
+#     ["holstein", "/ˈhoʊl.staɪn/"],
+#     ["neighbor", "/ˈneɪbər/"],
+#     ["seize",  "/siːz/"],
+#     ["weird", "/wɪrd/"],
+#     ["leisure", "/ˈliːʒər/"],
+#     ["conceit", "/kənˈsiːt/"],
+#     ["perceive", "/pərˈsiːv/"],
+#     ["rein", "/reɪn/"],
+#     ["feign", "/feɪn/"],
+#     ["reveille", "/ˈrɛvəli/"],
+#     ["seismic", "/ˈsaɪzmɪk/"],
+#     ["rietveld", "/ˈritfɛld/"],
+#     ["deictic", "/ˈdaɪktɪk/"],
+#     ["einsteinian", "/ˌaɪnˈstaɪniən/"],
+#     ["eiderdown", "/ˈaɪdərdaʊn/"],
+#     ["rietveld", "/ˈritfɛld/"],
+#     ["zeitgeber", "/ˈtsaɪtˌɡeɪbər/"],
+#     ["beige", "/beɪʒ/"],
+#     ["riesling", "/ˈriːslɪŋ/"],
+#     ["eidetic", "/aɪˈdɛtɪk/"],
+#     ["surveil", "/sərˈveɪl/"],
+#     ["feint", "/feɪnt/"],
+#     ["seigneur", "/seɪˈnjʊər/"],
+#     ["eisteddfod", "/aɪˈstɛðfəd/"],
+#     ["seigniorage", "/ˈseɪnjərɪdʒ/"],
+#     ["weimaraner", "/ˈvaɪmərɑːnər/"],
+#     ["lieutenant", "/lɛfˈtɛnənt/"],
+#     ["heifer", "/ˈhɛfər/"],
+#     ["sheikhdom", "/ˈʃeɪkˌdʌm/"],
+#     ["chaliced", "/ˈkælɪst/"],
+#     ["supercalifragilisticexpialidocious", "/ˌso͞opərˌkaləˌfrajəˌlistikˌekspēˌaləˈdōSHəs/"],
+#     ["skibidi", "/ˈskɪbɪdi/"],
+#     ["calvities", "/kælˈvɪʃiːiːz/"],
+#     ["caesious", "/ˈsiːʒəs/"],
+#     ["objet d'art", "/ɔbʒɛ d‿aʁ/"],
+#     ["chauve-souris", "/ʃoʊv.suˈriː/"],
+#     ["conteur", "/kɔ̃.tœʁ/"],
+#     ["calusar", "/kəˈluːʃɑːr/"],
+#     ["cirri", "/ˈsɜːr.aɪ/"],
+#     ["bessemer", "/ˈbɛs.ə.mər/"],
+#     ["concours", "/kɔŋˈkʊr/"],
+#     ["chevrotain", "/ˈʃɛv.rə.teɪn/"]3
+# ]
 
-while True:
+# while True:
 
-    random_word = random.choice(spelling_bee)
-    wordlol, pronunciation = random_word
+#     random_word = random.choice(spelling_bee)
+#     wordlol, pronunciation = random_word
 
-    print(pronunciation)
+#     print(pronunciation)
 
-    spelling = input("Spell!")
+#     spelling = input("Spell!")
 
-    if spelling == wordlol:
-        print("Yay!")
-    else:
-        print("Nope.")
-        print(wordlol)
+#     if spelling == wordlol:
+#         print("Yay!")
+#     else:
+#         print("Nope.")
+#         print(wordlol)

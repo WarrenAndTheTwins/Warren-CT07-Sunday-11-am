@@ -26,6 +26,7 @@ orders = []
 #make the loop with the input
 while True:
     order = input("What would you like to order? (Type 'end' to finish): ")
+    counter +
     #do the end
     if order == "end":
         break  #close the loop

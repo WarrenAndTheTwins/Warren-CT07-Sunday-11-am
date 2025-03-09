@@ -20,4 +20,4 @@ counter = 0
 while True:
     order = input("order?")
     counter += 1
-    ordered_things = counter + ""
+    ordered_things = counter + ". " + order

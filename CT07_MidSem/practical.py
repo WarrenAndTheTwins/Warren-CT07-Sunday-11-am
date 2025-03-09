@@ -19,4 +19,6 @@ while True:
     list = [""]
     list.append(order)
     if order == "end":
-        print(list)
+        for orderlol in order:
+            food = order
+            

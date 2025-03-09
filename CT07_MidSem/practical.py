@@ -23,4 +23,4 @@ while True:
             food = order
             counter = 0
             counter += 1
-            print(str(index_num) + ". " + orderlol)
+            print(str(counter) + ". " + orderlol)

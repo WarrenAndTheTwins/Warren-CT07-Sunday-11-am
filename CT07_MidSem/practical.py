@@ -19,4 +19,4 @@ while True:
     list = [""]
     list.append(order)
     if order == "end":
-        list = ()
+        pru

@@ -39,7 +39,4 @@ for item in orders:
     counter += 1
     print(str(counter) + ". " + item)
 
-    word = "peanut"
-i = 0
-while i < 10:
-	print(word[i])
+

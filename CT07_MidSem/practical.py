@@ -17,5 +17,6 @@ print("Aww, Jimmy Bartholemew the 2nd Jr Sr is drained of health! He survived " 
 
 ###########################################################################################################################################################
 
-While 
-order = input("order?")
+while True:
+    order = input("order?")
+    

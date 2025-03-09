@@ -21,6 +21,6 @@ ordered_things = ""
 while True:
     order = input("order?")
     counter += 1
-    ordered_things = ordered_things + counter + ". " + order
+    ordered_things = ordered_things + str(counter)and + ". " + order
     if order == "end":
         print (ordered_things)

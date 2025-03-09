@@ -12,7 +12,7 @@ while health > 0:
     counter += 1
     health = health - health_drop
 
-
+#killing him
 print("Aww, Jimmy Bartholemew the 2nd Jr Sr is drained of health! He survived " + str(counter) + " rounds.")
 
 ###########################################################################################################################################################

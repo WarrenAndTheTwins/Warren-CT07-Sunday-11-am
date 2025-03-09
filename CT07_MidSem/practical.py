@@ -21,4 +21,4 @@ while True:
     if order == "end":
         for orderlol in order:
             food = order
-            print(str())
+            print(str(orderlol.index + 1))

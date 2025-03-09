@@ -17,4 +17,5 @@ print("Aww, Jimmy Bartholemew the 2nd Jr Sr is drained of health! He survived " 
 while True:
     order = input("what would you like to order?")
     list = [""]
-    list.append()
+    list.append(order)
+    

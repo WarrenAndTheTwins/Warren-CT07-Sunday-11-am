@@ -37,4 +37,4 @@ while True:
 # Display the list of all the user's orders
 print("Your orders:")
 for item in orders:
-    print(str(counter) item)
+    print(str(counter) + item)

@@ -21,5 +21,5 @@ while True:
     if order == "end":
         for orderlol in order:
             food = order
-            index_num = order.lol
+            index_num = orderlol.index + 1
             print((orderlol.index + 1) + ". " + orderlol)

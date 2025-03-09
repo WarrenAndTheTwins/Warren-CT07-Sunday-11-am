@@ -9,4 +9,5 @@ while health > 0:
     print("OOF! Jimmy Bartholemew the 2nd Jr Sr lost " + str(health_drop) + " fighting a monster!")
     counter += 1
     health == health - health_drop
+    
 print("Aww, Jimmy Bartholemew the 2nd Jr Sr is drained of health! He survived " + str(counter) + " rounds.")

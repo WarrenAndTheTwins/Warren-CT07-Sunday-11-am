@@ -18,4 +18,5 @@ while True:
     order = input("what would you like to order?")
     list = [""]
     list.append(order)
-if ==
+    if order == "end":
+        print ()

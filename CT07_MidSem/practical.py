@@ -23,7 +23,6 @@ while True:
     list.append(order)
     if order == "end":
         for orderlol in order:
-            food = order
             counter = 0
             counter += 1
             print(str(counter) + ". " + orderlol)

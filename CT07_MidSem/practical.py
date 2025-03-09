@@ -22,4 +22,4 @@ while True:
     counter += 1
     ordered_things = ordered_things + counter + ". " + order
     if order == "end":
-        print 
+        print ("ordered_things")

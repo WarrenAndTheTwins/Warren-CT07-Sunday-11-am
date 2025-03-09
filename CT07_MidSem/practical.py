@@ -17,6 +17,8 @@ print("Aww, Jimmy Bartholemew the 2nd Jr Sr is drained of health! He survived " 
 
 ###########################################################################################################################################################
 
+#set a counter
+countert =
 
 #make a list
 orders = []

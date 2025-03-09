@@ -17,12 +17,20 @@ print("Aww, Jimmy Bartholemew the 2nd Jr Sr is drained of health! He survived " 
 
 ###########################################################################################################################################################
 
-counter = 0
-ordered_things = [""]
+#make a list
+orders = []
+
+#make the loop with the input
 while True:
-    order = input("order?")
-    counter += 1
+    order = input("What would you like to order? (Type 'end' to finish): ")
+    #do the end
     if order == "end":
-        print (ordered_things)
-    ordered_things = ordered_things + str(counter) + ". " + order
+        break  #close the loop
     
+    # put it in the list
+    orders.append(order)
+
+# Display the list of all the user's orders
+print("Your orders:")
+for item in orders:
+    print(item)

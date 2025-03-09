@@ -37,4 +37,4 @@ while True:
 print("Your orders:")
 for item in orders:
     counter += 1
-    print(str(counter) + item)
+    print(str(counter) + ". " + item)

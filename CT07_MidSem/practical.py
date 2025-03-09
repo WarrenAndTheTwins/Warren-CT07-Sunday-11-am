@@ -26,7 +26,6 @@ orders = []
 #make the loop with the input
 while True:
     order = input("What would you like to order? (Type 'end' to finish): ")
-    counter += 1
     #do the end
     if order == "end":
         break  #close the loop
@@ -37,4 +36,5 @@ while True:
 # Display the list of all the user's orders
 print("Your orders:")
 for item in orders:
+    counter += 1
     print(str(counter) + item)

@@ -18,3 +18,4 @@ while True:
     order = input("what would you like to order?")
     list = [""]
     list = list + order
+    

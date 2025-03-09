@@ -5,4 +5,4 @@ health = 100
 
 while health > 0:
     health_drop = random.randint(1,15)
-    print 
+    print("OOF! Jimmy ")

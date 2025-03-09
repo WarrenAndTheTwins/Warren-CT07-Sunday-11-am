@@ -16,6 +16,7 @@ while health > 0:
 print("Aww, Jimmy Bartholemew the 2nd Jr Sr is drained of health! He survived " + str(counter) + " rounds.")
 
 ###########################################################################################################################################################
+
 counter = 0
 ordered_things = ""
 while True:

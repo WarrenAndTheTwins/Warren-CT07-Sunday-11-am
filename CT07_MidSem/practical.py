@@ -17,12 +17,3 @@ print("Aww, Jimmy Bartholemew the 2nd Jr Sr is drained of health! He survived " 
 
 ###########################################################################################################################################################
 
-while True:
-    order = input("what would you like to order?")
-    list = [""]
-    list.append(order)
-    if order == "end":
-        for orderlol in order:
-            counter = 0
-            counter += 1
-            print(str(counter) + ". " + orderlol)

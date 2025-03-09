@@ -33,7 +33,7 @@ while True:
     # put it in the list
     orders.append(order)
 
-# Display the list of all the user's orders
+#show the list
 print("Your orders:")
 for item in orders:
     counter += 1

@@ -5,7 +5,7 @@ print("Jimmy Bartholemew the 2nd Jr Sr has 100 health. He must fight through wav
 health = 100
 counter = 0
 
-#setting up the loop for 
+#setting up the loop for his repeated attaks
 while health > 0:
     health_drop = random.randint(1,15)
     print("OOF! Jimmy Bartholemew the 2nd Jr Sr lost " + str(health_drop) + " fighting a monster!")

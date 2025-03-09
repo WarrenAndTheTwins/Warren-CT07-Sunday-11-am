@@ -4,4 +4,5 @@ print("Jimmy Bartholemew the 2nd Jr Sr has 100 health. He must fight through wav
 health = 100
 
 while health > 0:
-health_drop = random.randint(1,15)
+    health_drop = random.randint(1,15)
+    print 

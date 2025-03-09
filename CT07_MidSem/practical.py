@@ -18,7 +18,7 @@ print("Aww, Jimmy Bartholemew the 2nd Jr Sr is drained of health! He survived " 
 ###########################################################################################################################################################
 
 counter = 0
-ordered_things = ""
+ordered_things = [""]
 while True:
     order = input("order?")
     counter += 1

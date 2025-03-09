@@ -21,6 +21,6 @@ while True:
     if order == "end":
         for orderlol in order:
             food = order
-            gip = orderlol.index
-            index_num = int(gip) + 1
+            counter = 0
+            
             print(str(index_num) + ". " + orderlol)

@@ -40,7 +40,7 @@ stringrandomlolpoop67 = ['Computers', 'empower', 'our', 'modern', 'world', 'with
 
 words = stringrandomlolpoop67
 sentence = "".join(words)
-print(sw)
+print(sentence)
 
 
 

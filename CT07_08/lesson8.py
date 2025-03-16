@@ -15,7 +15,8 @@
 # left = big_list[:mid_point]
 # print(right)
 # print(left)
-
+HasLower = False
+H
 pw = input("pw plz")
 
 if pw.haslower: True

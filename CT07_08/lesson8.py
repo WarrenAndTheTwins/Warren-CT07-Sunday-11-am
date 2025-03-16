@@ -13,5 +13,5 @@ for i in big_list:
     if number in big_list:
         big_list = big_list - number
 
-
+sort(big_list)
 

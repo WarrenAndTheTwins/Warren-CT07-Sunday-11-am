@@ -37,7 +37,7 @@
 # print(pw)
     
 sentence = "Hello World"
-
+sentence.split()
 
 
 

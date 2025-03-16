@@ -35,12 +35,12 @@
 
 # if HasLower and HasUpper and Mor8 and AlphaNum and HasNum: True
 # print(pw)
-    
+reversed_sentence = ""
 sentence = "Hello World"
 sentence.split()
 for i in sentence:
     reversed = i[::-1]
-    reversed_sentence +=rverses
+    reversed_sentence += reversed
 
 
 

@@ -22,7 +22,7 @@ AlphaNum = False
 HasNum = False
 pw = input("pw plz")
 
-if pw.haslower: True
+if pw.islower: True
 HasLower = True
 if pw.hasupper: True
 HasUpper = True

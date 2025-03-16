@@ -40,7 +40,7 @@ sentence = "Hello World"
 splitted = sentence.split()
 for i in splitted:
     reversed = i[::-1]
-    reversed_sentence += reversed
+    reversed_sentence += " " + reversed
 print(reversed_sentence)
 
 

@@ -16,9 +16,7 @@
 # print(right)
 # print(left)
 
-pw = input("pw plz")
 
-pw.lower
 
 
 

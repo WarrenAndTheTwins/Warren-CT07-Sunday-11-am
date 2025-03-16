@@ -31,7 +31,9 @@ Mor8 = True
 if pw.isalnum: True
 AlphaNum = True
 if pw.isdigit: True
+HasNum = True
 
+if HasLower and HasUpper and Mor8 and AlphaNum and HasNum: True
     
 
 

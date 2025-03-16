@@ -13,6 +13,7 @@ mid_point = len(big_list) // 2
 
 right = big_list[mid_point:]
 left = big_list[:mid_point]
+print(right)
 
 
 

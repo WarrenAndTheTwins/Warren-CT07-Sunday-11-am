@@ -7,6 +7,7 @@ list3 = [9, 8, 7]
 big_list = list1 + list2 + list3
 
 big_list = sorted(set(big_list))
+print(big_list)
 
 
 

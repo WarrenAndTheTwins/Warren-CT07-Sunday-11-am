@@ -11,7 +11,7 @@ print(big_list)
 
 mid_point = len(big_list) // 2
 
-right = big_list
+right = big_list[midpoint:]
 
 
 

@@ -8,12 +8,7 @@ list3 = [9, 8, 7]
 
 big_list = list1 + list2 + list3
 
-for i in big_list:
-    counter += 1
-    big_list = number
-    if number in big_list:
-        big_list.pop(counter)
-print(big_list)
+big_list = sorted(set())
 
 
 

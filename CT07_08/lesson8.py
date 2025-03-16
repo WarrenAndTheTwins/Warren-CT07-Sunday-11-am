@@ -16,7 +16,7 @@
 # print(right)
 # print(left)
 
-ps = 
+pw = input("pw plz")
 
 
 

@@ -28,7 +28,8 @@ if pw.hasupper: True
 HasUpper = True
 if len(pw) >= 8: True
 Mor8 = True
-if pw.isalpha and pw.isalnum: False
+if pw.isalnum: True
+
     
 
 

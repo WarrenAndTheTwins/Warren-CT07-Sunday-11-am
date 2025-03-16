@@ -36,11 +36,7 @@
 # if HasLower and HasUpper and Mor8 and AlphaNum and HasNum: True
 # print(pw)
     
-stringrandomlolpoop67 = ['Computers', 'empower', 'our', 'modern', 'world', 'with', 'their', 'digital', 'brains.']
 
-words = stringrandomlolpoop67
-sentence = ",".join(words)
-print(sentence)
 
 
 

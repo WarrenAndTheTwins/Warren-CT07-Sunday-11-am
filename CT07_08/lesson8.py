@@ -41,6 +41,7 @@ sentence.split()
 for i in sentence:
     reversed = i[::-1]
     reversed_sentence += reversed
+print(reversed_sentence)
 
 
 

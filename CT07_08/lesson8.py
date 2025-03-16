@@ -19,7 +19,7 @@
 pw = input("pw plz")
 
 if pw.haslower: True
-
+HasLower = True
     
 
 

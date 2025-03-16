@@ -24,7 +24,7 @@ pw = input("pw plz")
 
 if pw.islower: True
 HasLower = True
-if pw.hasupper: True
+if pw.isupper: True
 HasUpper = True
 if len(pw) >= 8: True
 Mor8 = True

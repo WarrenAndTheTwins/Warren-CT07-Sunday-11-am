@@ -38,8 +38,8 @@
     
 stringrandomlolpoop67 = ['Computers', 'empower', 'our', 'modern', 'world', 'with', 'their', 'digital', 'brains.']
 
-words = stringrandomlolpoop67.split(",")
-print(words)
+words = stringrandomlolpoop67
+''
 
 
 

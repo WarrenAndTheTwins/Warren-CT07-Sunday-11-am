@@ -38,7 +38,7 @@
     
 stringrandomlolpoop67 = "Computers empower our modern world with their digital brains."
 
-words = s
+words = stringrandomlolpoop67 
 
 
 

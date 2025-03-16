@@ -36,9 +36,9 @@
 # if HasLower and HasUpper and Mor8 and AlphaNum and HasNum: True
 # print(pw)
     
-stringrandomlolpoop67 = "Computersempowerourmodern,world,with,their,digital,brains."
+stringrandomlolpoop67 = "Computers,empower,our,modern,world,with,their,digital,brains."
 
-words = stringrandomlolpoop67.split()
+words = stringrandomlolpoop67.split(",")
 print (words)
 
 

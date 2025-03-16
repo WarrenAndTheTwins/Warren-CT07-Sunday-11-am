@@ -18,6 +18,8 @@
 
 pw = input("pw plz")
 
+pw.lower
+
 
 
 

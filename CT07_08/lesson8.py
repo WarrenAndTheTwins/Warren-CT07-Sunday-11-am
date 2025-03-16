@@ -38,7 +38,7 @@
 reversed_sentence = ""
 sentence = "Hello World"
 splitted = sentence.split()
-for i in sentence:
+for i in splitted:
     reversed = i[::-1]
     reversed_sentence += reversed
 print(reversed_sentence)

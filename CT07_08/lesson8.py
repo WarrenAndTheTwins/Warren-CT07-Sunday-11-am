@@ -29,6 +29,8 @@ HasUpper = True
 if len(pw) >= 8: True
 Mor8 = True
 if pw.isalnum: True
+AlphaNum = True
+if pw.isdigit: True
 
     
 

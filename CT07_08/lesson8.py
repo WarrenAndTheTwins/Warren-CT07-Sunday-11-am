@@ -16,7 +16,7 @@
 # print(right)
 # print(left)
 HasLower = False
-H
+HasUpper = False
 pw = input("pw plz")
 
 if pw.haslower: True

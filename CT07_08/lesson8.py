@@ -19,7 +19,7 @@ HasLower = False
 HasUpper = False
 Mor8 = False
 AlphaNum = False
-
+HasNum = 
 pw = input("pw plz")
 
 if pw.haslower: True

@@ -12,7 +12,7 @@ for i in big_list:
     counter += 1
     big_list = number
     if number in big_list:
-        big_list = big_list - number
+        big_list.pop(counet)
 
 
 

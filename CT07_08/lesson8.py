@@ -39,7 +39,8 @@
 stringrandomlolpoop67 = ['Computers', 'empower', 'our', 'modern', 'world', 'with', 'their', 'digital', 'brains.']
 
 words = stringrandomlolpoop67
-"".join(words)
+sentence = "".join(words)
+print(sw)
 
 
 

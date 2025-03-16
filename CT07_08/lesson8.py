@@ -10,3 +10,4 @@ big_list = list1 + list2 + list3
 
 for i in big_list:
     big_list = number
+    

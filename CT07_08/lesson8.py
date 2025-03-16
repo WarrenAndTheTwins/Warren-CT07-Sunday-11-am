@@ -39,7 +39,7 @@
 sentence = "Hello World"
 sentence.split()
 for i in sentence:
-    reve
+    reversed = i
 
 
 

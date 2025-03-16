@@ -13,7 +13,7 @@ for i in big_list:
     big_list = number
     if number in big_list:
         big_list.pop(counter)
-    
+print(big_list)
 
 
 

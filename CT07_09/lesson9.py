@@ -12,3 +12,4 @@ palindromelist = [""]
 for word in list:
     if word == word[::-1]:
         palindromelist.append(word)
+        palindromes 

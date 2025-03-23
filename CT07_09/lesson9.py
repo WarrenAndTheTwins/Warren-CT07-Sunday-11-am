@@ -22,5 +22,5 @@ sales_data =[
     ["Banana", 45, 0.99],
     ["Orange", 30, 2.49],
     ["Grapefruit", 25, 3.99],
-    ["Mango"]
+    ["Mango", 20, ]
 ]

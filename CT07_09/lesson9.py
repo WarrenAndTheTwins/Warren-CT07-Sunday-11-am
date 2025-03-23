@@ -1,2 +1,2 @@
-print("Hello from lesson 9")
-
+while True:
+    word = input("")

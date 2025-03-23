@@ -9,3 +9,6 @@ sentence = input("sentence pls")
 palindromes = 0
 list = sentence.split(" ")
 palindromelist = [""]
+for word in list:
+    if word == word[::-1]:
+        

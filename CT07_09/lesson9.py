@@ -6,4 +6,4 @@
 #         print("nope")
 
 sentence = input("sentence pls")
-
+palindromes = 0

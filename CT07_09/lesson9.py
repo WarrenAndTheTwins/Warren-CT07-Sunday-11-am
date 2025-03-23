@@ -3,4 +3,4 @@ while True:
     if word == word[::-1]:
         print("YAYAYYA")
     else:
-        print
+        print("nope")

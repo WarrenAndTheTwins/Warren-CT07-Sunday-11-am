@@ -27,5 +27,6 @@ sales_data =[
 for fruit, units, cost in sales_data:
     total_monies = units * cost
 
-print("Top 3 sellers")
+print("Top 3 sellers:")
+print()
     

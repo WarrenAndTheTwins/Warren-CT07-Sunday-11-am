@@ -24,8 +24,9 @@ sales_data =[
     ["Grapefruit", 25, 3.99],
     ["Mango", 20, 2.99]
 ]
+earned = []
 for fruit, units, cost in sales_data:
-    total_monies = units * cost
+    earned.append (units * cost)
 
 print("Top 3 sellers:")
 

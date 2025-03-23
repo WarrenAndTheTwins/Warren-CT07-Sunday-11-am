@@ -5,14 +5,15 @@
 #     else:
 #         print("nope")
 
-sentence = input("sentence pls")
-palindromes = 0
-list = sentence.split(" ")
-palindromelist = [""]
-for word in list:
-    if word == word[::-1]:
-        palindromelist.append(word)
-        palindromes += 1
+# sentence = input("sentence pls")
+# palindromes = 0
+# list = sentence.split(" ")
+# palindromelist = [""]
+# for word in list:
+#     if word == word[::-1]:
+#         palindromelist.append(word)
+#         palindromes += 1
 
-print(palindromes)
-print(palindromelist)
+# print(palindromes)
+# print(palindromelist)
+

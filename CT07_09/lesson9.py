@@ -15,4 +15,4 @@ for word in list:
         palindromes += 1
 
 print(palindromes)
-print(listo)
+print(palindromelist)

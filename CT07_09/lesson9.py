@@ -8,3 +8,4 @@
 sentence = input("sentence pls")
 palindromes = 0
 list = sentence.split(" ")
+palindromelist = [""]

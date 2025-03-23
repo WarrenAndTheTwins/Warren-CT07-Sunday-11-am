@@ -14,4 +14,5 @@ for word in list:
         palindromelist.append(word)
         palindromes += 1
 
-print(palindromes
+print(palindromes)
+print(listo)

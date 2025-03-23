@@ -5,4 +5,4 @@
 #     else:
 #         print("nope")
 
-word = input("")
+sentence = input("sentence pls")

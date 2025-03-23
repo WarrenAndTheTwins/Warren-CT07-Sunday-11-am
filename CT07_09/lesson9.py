@@ -6,3 +6,4 @@
 #         print("nope")
 
 sentence = input("sentence pls")
+

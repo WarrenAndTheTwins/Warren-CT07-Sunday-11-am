@@ -25,5 +25,6 @@ sales_data =[
     ["Mango", 20, 2.99]
 ]
 for fruit, units, cost in sales_data:
-    total_monies = 
+    total_monies = units * cost
+    
     

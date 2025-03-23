@@ -1,2 +1,4 @@
 while True:
-    word = input("")
+    word = input("Word?")
+    if word == word[::-1]:
+        print ""

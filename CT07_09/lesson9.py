@@ -24,3 +24,6 @@ sales_data =[
     ["Grapefruit", 25, 3.99],
     ["Mango", 20, 2.99]
 ]
+for fruit, units, cost in sales_data:
+    print(fruit)
+    

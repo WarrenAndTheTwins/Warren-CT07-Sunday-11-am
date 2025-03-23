@@ -35,13 +35,13 @@
 
 # if HasLower and HasUpper and Mor8 and AlphaNum and HasNum: True
 # print(pw)
-reversed_sentence = ""
-sentence = "Hello World"
-splitted = sentence.split()
-for i in splitted:
-    reversed = i[::-1]
-    reversed_sentence += " " + reversed
-print(reversed_sentence)
+# reversed_sentence = ""
+# sentence = "Hello World"
+# splitted = sentence.split()
+# for i in splitted:
+#     reversed = i[::-1]
+#     reversed_sentence += " " + reversed
+# print(reversed_sentence)
 
 
 

@@ -4,4 +4,5 @@
 #         print("YAYAYYA")
 #     else:
 #         print("nope")
-word = input
+
+word = input("")

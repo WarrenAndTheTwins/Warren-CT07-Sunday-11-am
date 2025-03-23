@@ -17,3 +17,10 @@
 # print(palindromes)
 # print(palindromelist)
 
+sales_data =[
+    [],
+    [],
+    [],
+    [],
+    []
+]

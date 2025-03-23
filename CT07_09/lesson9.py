@@ -25,5 +25,5 @@ sales_data =[
     ["Mango", 20, 2.99]
 ]
 for fruit, units, cost in sales_data:
-    print(fruit)
+    total_monies = 
     

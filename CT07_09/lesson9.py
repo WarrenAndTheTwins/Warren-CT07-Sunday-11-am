@@ -68,5 +68,5 @@ pen.goto(-300, -250)
 pen.pencolor("yellow")
 pen.pendown()
 pen.seth(0)
-pen
+pen.forward()
 window.mainloop()

@@ -83,9 +83,9 @@ Plippy = turtle.Turtle()
 Plippy.penup()
 Plippy.seth(90)
 Plippy.shape("turtle")
-Plippy.color("#9A3836")
+Plippy.color("white")
 Plippy.goto(0,-250)
-Plippy.write("Plippy", align = "center", font =('Futura', 20))
+Plippy.write("GLIB", align = "center", font =('Futura', 20))
 
 window.mainloop()
 

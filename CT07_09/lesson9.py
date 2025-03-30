@@ -91,7 +91,7 @@ Bippy = turtle.Turtle()
 Bippy.penup()
 Bippy.seth(90)
 Bippy.shape("turtle")
-Plippy.color("#9A3836")
+Bippy.color("#9A3836")
 Plippy.goto(0,-250)
 Plippy.write("Plippy", align = "center", font =('Futura', 20))
 

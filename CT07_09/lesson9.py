@@ -46,4 +46,4 @@ eggprobs = eggprobs.lower()
 list = eggprobs.split(" ")
 for i in list:
     if i == "egg":
-        isC
+        isCorrect = True

@@ -66,5 +66,6 @@ for i in range(-300,300,25):
     pen.stamp()
 pen.goto(-300, -250)
 pen.pencolor("yellow")
-pen.pendown
+pen.pendown()
+
 window.mainloop()

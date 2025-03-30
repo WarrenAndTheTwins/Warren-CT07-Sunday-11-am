@@ -48,4 +48,6 @@ for i in list:
     if i == "egg":
         isCorrect = True
 if isCorrect == True:
-    print("")
+    print("Nice! You're pretty smart!")
+else:
+    

@@ -17,25 +17,25 @@
 # print(palindromes)
 # print(palindromelist)
 
-sales_data =[
-    ["Apple", 50, 1.99],
-    ["Banana", 45, 0.99],
-    ["Orange", 30, 2.49],
-    ["Grapefruit", 25, 3.99],
-    ["Mango", 20, 2.99]
-]
-earned = []
-for fruit, units, cost in sales_data:
-    earned.append (units * cost)
+# sales_data =[
+#     ["Apple", 50, 1.99],
+#     ["Banana", 45, 0.99],
+#     ["Orange", 30, 2.49],
+#     ["Grapefruit", 25, 3.99],
+#     ["Mango", 20, 2.99]
+# ]
+# earned = []
+# for fruit, units, cost in sales_data:
+#     earned.append (units * cost)
 
-top_fruits = []
-max_value = 0
-for price in earned:
-    if max_value < price:
-        max_value = price
+# top_fruits = []
+# max_value = 0
+# for price in earned:
+#     if max_value < price:
+#         max_value = price
         
-print(max_value)
+# print(max_value)
 
-for fruit in sales_data:
-    fruit_max = fruit[earned.index(max_value)]
-print(fruit_max)
+# for fruit in sales_data:
+#     fruit_max = fruit[earned.index(max_value)]
+# print(fruit_max)

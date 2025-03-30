@@ -93,7 +93,7 @@ Bippy.seth(90)
 Bippy.shape("turtle")
 Bippy.color("green")
 Bippy.goto(200,-250)
-Plippy.write("Plippy", align = "center", font =('Futura', 20))
+Bippy.write("Bippy", align = "center", font =('Futura', 20))
 
 window.mainloop()
 

@@ -28,6 +28,14 @@ earned = []
 for fruit, units, cost in sales_data:
     earned.append (units * cost)
 
-print("Top 3 sellers:")
+top_fruits = []
+max_value = 0
+for price in earned:
+    if max_value < price:
+        max_value = price
+        
+print(max_value)
 
-    
+for fruit in sales_data:
+    fruit_max = fruit[earned.index(max_value)]
+print(fruit_max)

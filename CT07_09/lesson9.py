@@ -47,3 +47,5 @@ list = eggprobs.split(" ")
 for i in list:
     if i == "egg":
         isCorrect = True
+if isCorrect == True:
+    print("")

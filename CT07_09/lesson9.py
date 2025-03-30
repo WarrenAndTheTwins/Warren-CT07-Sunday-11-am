@@ -40,14 +40,14 @@
 #     fruit_max = fruit[earned.index(max_value)]
 # print(fruit_max)
 
-isCorrect = False
-eggprobs = input("What has to be broken before you use it?")
-eggprobs = eggprobs.lower()
-list = eggprobs.split(" ")
-for i in list:
-    if i == "egg":
-        isCorrect = True
-if isCorrect == True:
-    print("Nice! You're pretty smart!")
-else:
-    print("BIG DUMBHEADDDDD")
+# isCorrect = False
+# eggprobs = input("What has to be broken before you use it?")
+# eggprobs = eggprobs.lower()
+# list = eggprobs.split(" ")
+# for i in list:
+#     if i == "egg":
+#         isCorrect = True
+# if isCorrect == True:
+#     print("Nice! You're pretty smart!")
+# else:
+#     print("BIG DUMBHEADDDDD")

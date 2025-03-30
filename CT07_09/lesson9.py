@@ -63,4 +63,5 @@ pen.shape("square")
 pen.sety(250)
 for i in range(-300,300,25):
     pen.setx(i)
+    pen.stamp()
 window.mainloop()

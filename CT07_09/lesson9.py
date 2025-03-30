@@ -50,4 +50,4 @@ for i in list:
 if isCorrect == True:
     print("Nice! You're pretty smart!")
 else:
-    
+    print("BIG DUMBHEADDDDD")

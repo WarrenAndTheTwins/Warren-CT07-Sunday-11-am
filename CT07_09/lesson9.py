@@ -57,4 +57,5 @@ import turtle
 window = turtle.Screen()
 window.setup(600,600)
 window.bgcolor("forestgreen")
+pen = turtle.T
 window.mainloop()

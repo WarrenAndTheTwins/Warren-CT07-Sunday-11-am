@@ -72,7 +72,8 @@ pen.forward(600)
 pen.hideturtle()
 
 Plippy = turtle.Turtle()
-Plippy.penup
+Plippy.penup()
+Plippy.seth
 
 window.mainloop()
 

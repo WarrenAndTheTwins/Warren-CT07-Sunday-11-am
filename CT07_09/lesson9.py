@@ -75,7 +75,7 @@ Plippy = turtle.Turtle()
 Plippy.penup()
 Plippy.seth(90)
 Plippy.shape("turtle")
-Plippy.color()
+Plippy.color("#9A383")
 
 window.mainloop()
 

@@ -88,7 +88,7 @@ Glob.goto(0,-250)
 Glob.write("Glob", align = "center", font =('Futura', 20))
 
 Bippy = turtle.Turtle()
-Plippy.penup()
+Bippy.penup()
 Plippy.seth(90)
 Plippy.shape("turtle")
 Plippy.color("#9A3836")

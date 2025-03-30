@@ -85,7 +85,7 @@ Plippy.seth(90)
 Plippy.shape("turtle")
 Plippy.color("white")
 Plippy.goto(0,-250)
-Plippy.write("GLIB", align = "center", font =('Futura', 20))
+Plippy.write("Glob", align = "center", font =('Futura', 20))
 
 window.mainloop()
 

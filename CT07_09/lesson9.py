@@ -67,5 +67,6 @@ for i in range(-300,300,25):
 pen.goto(-300, -250)
 pen.pencolor("yellow")
 pen.pendown()
-
+pen.seth(0)
+pen
 window.mainloop()

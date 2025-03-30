@@ -51,3 +51,7 @@
 #     print("Nice! You're pretty smart!")
 # else:
 #     print("BIG DUMBHEADDDDD")
+
+import turtle
+
+window = turtle.screen

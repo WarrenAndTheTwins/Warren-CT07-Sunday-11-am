@@ -42,5 +42,5 @@
 
 isCorrect = False
 eggprobs = input("What has to be broken before you use it?")
-eggprobs = eggprobs.lower
+eggprobs = eggprobs.lower()
 print(eggprobs)

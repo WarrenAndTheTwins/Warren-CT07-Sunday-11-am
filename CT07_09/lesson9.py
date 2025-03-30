@@ -60,4 +60,7 @@ window.bgcolor("forestgreen")
 pen = turtle.Turtle()
 pen.penup()
 pen.shape("square")
+pen.sety(250)
+for i in range(-300,300,25):
+    
 window.mainloop()

@@ -44,3 +44,6 @@ isCorrect = False
 eggprobs = input("What has to be broken before you use it?")
 eggprobs = eggprobs.lower()
 list = eggprobs.split(" ")
+for i in list:
+    if i == "egg":
+        isC

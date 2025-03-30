@@ -71,7 +71,7 @@ pen.seth(0)
 pen.forward(600)
 pen.hideturtle()
 
-
+Plippy = turtle.Turtle
 
 window.mainloop()
 

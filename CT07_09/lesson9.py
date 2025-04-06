@@ -104,6 +104,6 @@ Glob.pendown()
 Bippy.pendown()
 
 while True:
-    Plippy.seth(rand)
+    Plippy.seth(random.randint(75, 155))
 window.mainloop()
 

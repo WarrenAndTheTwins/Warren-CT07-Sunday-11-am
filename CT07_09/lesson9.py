@@ -124,7 +124,7 @@ while True:
 if guess == winner:
     print("nice u got it right")
 else:
-    print("Nah bro it was ")
+    print("Nah bro it was " + winner)
 
 window.mainloop()
 

@@ -56,7 +56,7 @@ import turtle
 
 guess = input("Guess the winner!")
 
-winne
+winner = ""
 window = turtle.Screen()
 window.setup(600,600)
 window.bgcolor("forestgreen")
@@ -97,6 +97,9 @@ Bippy.shape("turtle")
 Bippy.color("green")
 Bippy.goto(200,-250)
 Bippy.write("Bippy", align = "center", font =('Futura', 20))
+
+
+
 
 window.mainloop()
 

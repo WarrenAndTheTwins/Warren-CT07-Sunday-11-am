@@ -121,7 +121,8 @@ while True:
     if Bippy.ycor() >250:
         winner = "Plippy"
         break
-\
+if guess == winner:
+    
 
 window.mainloop()
 

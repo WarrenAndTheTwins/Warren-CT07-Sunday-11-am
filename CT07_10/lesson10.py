@@ -1,5 +1,6 @@
 print("Hello from lesson 10")
-
-def alert():
-    print("MOTION DETECTED")
-
+import turtle
+# def alert():
+#     print("MOTION DETECTED")
+def square():
+    t = turtle.Turtle()

@@ -1,5 +1,5 @@
 print("Hello from lesson 10")
 
 def alert():
-    print
+    print("MOTION DETECTED")
 

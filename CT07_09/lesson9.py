@@ -121,5 +121,9 @@ while True:
     if Bippy.ycor() >250:
         winner = "Plippy"
         break
+\
+
 window.mainloop()
+
+
 

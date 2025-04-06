@@ -114,5 +114,12 @@ while True:
 
     if Plippy.ycor() >250:
         winner = "Plippy"
+        break
+    if Plippy.ycor() >250:
+        winner = "Plippy"
+        break
+    if Plippy.ycor() >250:
+        winner = "Plippy"
+        break
 window.mainloop()
 

@@ -98,9 +98,8 @@ Bippy.color("green")
 Bippy.goto(200,-250)
 Bippy.write("Bippy", align = "center", font =('Futura', 20))
 
-Plippy.pendown
-
-
-
+Plippy.pendown()
+Glob.pendown()
+Bippy.pendown()
 window.mainloop()
 

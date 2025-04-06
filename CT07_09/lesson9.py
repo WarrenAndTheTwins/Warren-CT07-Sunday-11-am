@@ -123,7 +123,8 @@ while True:
         break
 if guess == winner:
     print("nice u got it right")
-
+else:
+    print("Nah bro it was ")
 
 window.mainloop()
 

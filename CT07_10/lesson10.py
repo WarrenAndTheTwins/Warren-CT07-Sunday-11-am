@@ -11,4 +11,6 @@ import turtle
 
 def domath(num1, num2, num3):
     print(str(num1 * num3 / num2 + num1 - num2 * num3))
+
+domath()
     

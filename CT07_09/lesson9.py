@@ -103,6 +103,6 @@ Glob.pendown()
 Bippy.pendown()
 
 while True:
-    Plipp
+    Plippy.seth()
 window.mainloop()
 

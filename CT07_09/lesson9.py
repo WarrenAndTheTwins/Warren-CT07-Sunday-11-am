@@ -106,7 +106,7 @@ Bippy.pendown()
 while True:
     Plippy.seth(random.randint(75, 120))
     Glob.seth(random.randint(75, 120))
-    Bippy.seth(random.randint(75, 200))
+    Bippy.seth(random.randint(75, 120))
 
     Plippy.forward(random.randint(1, 20))
     Glob.forward(random.randint(1, 20))

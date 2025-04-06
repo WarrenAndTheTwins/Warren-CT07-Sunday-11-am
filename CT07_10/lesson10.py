@@ -2,5 +2,9 @@ print("Hello from lesson 10")
 import turtle
 # def alert():
 #     print("MOTION DETECTED")
+t = turtle.Turtle()
+
 def square():
-    t = turtle.Turtle()
+    for i in range (4):
+
+    

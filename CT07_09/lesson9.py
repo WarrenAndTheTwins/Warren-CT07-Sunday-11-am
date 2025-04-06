@@ -112,7 +112,7 @@ while True:
     Glob.forward(random.randint(1, 20))
     Bippy.forward(random.randint(1, 20))
 
-    if Plippy.ycor >250:
-        winner = P
+    if Plippy.ycor() >250:
+        winner = "Plippy"
 window.mainloop()
 

@@ -108,8 +108,8 @@ while True:
     Glob.seth(random.randint(75, 155))
     Bippy.seth(random.randint(75, 155))
 
-    Plippy.forward(random.randint(75, 155))
-    Glob.forward(random.randint(1, 155))
+    Plippy.forward(random.randint(1, 155))
+    Glob.forward(random.randint(1, 10))
     Bippy.forward(random.randint(1, 20))
 window.mainloop()
 

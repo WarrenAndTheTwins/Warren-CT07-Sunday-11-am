@@ -102,5 +102,7 @@ Plippy.pendown()
 Glob.pendown()
 Bippy.pendown()
 
+while True:
+    Plipp
 window.mainloop()
 

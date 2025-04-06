@@ -122,7 +122,8 @@ while True:
         winner = "Plippy"
         break
 if guess == winner:
-    print ("nice u got")
+    print("nice u got it right")
+
 
 window.mainloop()
 

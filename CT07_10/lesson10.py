@@ -7,5 +7,6 @@ t = turtle.Turtle()
 def square():
     for i in range (4):
         t.forward(20)
+        t.left(90)
 
     

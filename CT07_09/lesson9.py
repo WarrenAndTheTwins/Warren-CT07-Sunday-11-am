@@ -53,6 +53,7 @@
 #     print("BIG DUMBHEADDDDD")
 
 import turtle
+import random
 
 guess = input("Guess the winner!")
 

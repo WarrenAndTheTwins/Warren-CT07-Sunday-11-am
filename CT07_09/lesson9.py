@@ -101,5 +101,6 @@ Bippy.write("Bippy", align = "center", font =('Futura', 20))
 Plippy.pendown()
 Glob.pendown()
 Bippy.pendown()
+
 window.mainloop()
 

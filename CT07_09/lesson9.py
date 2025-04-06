@@ -54,7 +54,7 @@
 
 import turtle
 
-
+guess = input("Guess the winner!")
 
 window = turtle.Screen()
 window.setup(600,600)

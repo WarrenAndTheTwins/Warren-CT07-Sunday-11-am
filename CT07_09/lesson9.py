@@ -106,6 +106,8 @@ Bippy.pendown()
 while True:
     Plippy.seth(random.randint(75, 155))
     Glob.seth(random.randint(75, 155))
-    Plippy.seth(random.randint(75, 155))
+    Bippy.seth(random.randint(75, 155))
+
+    
 window.mainloop()
 

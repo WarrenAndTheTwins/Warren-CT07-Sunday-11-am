@@ -73,6 +73,8 @@ for maybeapalindrome in words:
 # (4) Check if it is a palindrome
 # (5) Add all the original sentences that is a palindrome to a new list
 
+
+
 sentences = [
     "A man a plan a canal Panama", "Was it a car or a cat I saw", "No lemon no melon",
     "Never odd or even", "Do geese see God", "Step on no pets", "Eva can I see bees in a cave",

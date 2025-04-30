@@ -58,5 +58,5 @@ currentplayer = "X"
 while True:
     printboard(board)
 
-    currentplayer = get_current_player
+    player = get_current_player(currentplayer)
     board = get_play_move(board, "X")

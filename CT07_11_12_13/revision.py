@@ -37,3 +37,12 @@ words = [
     "monitor", "window", "projector", "teacher", "laptop", "science", "library",
     "pencil", "marker", "whiteboard", "homework", "question", "answer"
 ]
+
+word = "nnnnn"
+def isitapalindromeidkwhywoulduwanttoknowthisanyways():
+    if word in words == word[::-1]:
+        return True
+    else:
+        print(word + "is not a palindrome")
+
+isitapalindromeidkwhyuwouldwanttoknowthisanyways()

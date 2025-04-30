@@ -15,3 +15,7 @@ for i in list1:
     if i < minimum:
         minimum = i
 print(minimum)
+
+sum = 0
+for i in list1:
+    

@@ -10,4 +10,6 @@ print(maximum)
 
 # find the minimum
 
-minu
+minimum = 10101001010101000101001010010010
+for i in list1:
+    if i < minimum

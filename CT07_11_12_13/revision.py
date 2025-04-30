@@ -21,4 +21,4 @@ for i in list1:
     sum += i
 length = len(list1)
 print(sum)
-average = sum / 
+average = sum / length

@@ -53,7 +53,7 @@ def get_current_player(player):
 #-----------------------------------------------------------------------------MAIN-GAME-CODE------------------------------------------------------------------------------------------------
 
 board = initboard()
-currentplayer = "X"
+player = "X"
 
 while True:
     printboard(board)

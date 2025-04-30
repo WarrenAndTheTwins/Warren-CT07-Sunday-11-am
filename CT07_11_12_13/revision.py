@@ -50,4 +50,4 @@ def isitapalindromeidkwhyuwouldwanttoknowthisanywaysword(word):
 
 for maybeapalindrome in words:
     if isitapalindromeidkwhyuwouldwanttoknowthisanywaysword(maybeapalindrome):
-        print()
+        print(maybeapalindrome + "is a palindrome")

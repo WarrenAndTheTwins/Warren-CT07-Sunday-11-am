@@ -43,10 +43,13 @@ def get_play_move(argboard, player):
     else:
         print("NOT NUMBAH")
 
+def get_current_player(player):
+
+
 
 #-----------------------------------------------------------------------------MAIN-GAME-CODE------------------------------------------------------------------------------------------------
 
-board = initboard()
+    board = initboard()
 
 
 while True:

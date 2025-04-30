@@ -59,4 +59,4 @@ while True:
     printboard(board)
 
     player = get_current_player(player)
-    board = get_play_move(board, "X")
+    board = get_play_move(board, player)

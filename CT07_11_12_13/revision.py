@@ -7,3 +7,7 @@ for i in list1:
     if i > maximum:
         maximum = i
 print(maximum)
+
+# find the minimum
+
+minu

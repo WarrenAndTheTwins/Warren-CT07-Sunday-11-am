@@ -100,6 +100,7 @@ sentences = [
 funnysentencepalindromesforteacherslolsofunny = []
 
 for sentence in sentences:
+    
     sentence2 = sentence.lower()
     sentence2 = sentence2.replace(" ", "")
     if isitapalindromeidkwhyuwouldwanttoknowthisanywaysword(sentence2):

@@ -6,3 +6,4 @@ maximum = 0
 for i in list1:
     if i > maximum:
         maximum = i
+print(max)

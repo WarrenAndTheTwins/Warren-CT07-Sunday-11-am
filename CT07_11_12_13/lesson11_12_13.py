@@ -53,5 +53,3 @@ while True:
     printboard(board)
 
     board = get_play_move(board, "X")
-
-printboard(board)

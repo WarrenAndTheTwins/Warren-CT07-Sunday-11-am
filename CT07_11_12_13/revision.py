@@ -100,6 +100,7 @@ sentences = [
 for sentence in sentences:
     sentence = sentence.lower
     sentence = sentence.replace(" ", "")
+    
 
 
 

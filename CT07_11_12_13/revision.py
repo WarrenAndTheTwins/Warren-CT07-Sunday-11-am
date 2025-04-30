@@ -39,7 +39,10 @@ words = [
 ]
 
 word = "nnnnn"
-def isitapalindromeidkwhywoulduwanttoknowthisanyways():
+
+
+# function only checks 1 word to see if its a palindrome
+def isitapalindromeidkwhywoulduwanttoknowthisanywaysword(word):
     if word in words == word[::-1]:
         return True
     else:

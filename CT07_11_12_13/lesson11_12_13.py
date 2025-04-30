@@ -15,7 +15,7 @@ def printboard(argboard):
     count = 1
     for row in argboard:
         for cell in row:
-            if cell == "":
+            if cell == " ":
                 print(f"| {count} ", end="")
             else:
                 print(f"| {cell} ", end="")

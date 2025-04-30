@@ -1,4 +1,4 @@
-print("Hello from lesson 11_12_13")
+# print("Hello from lesson 11_12_13")
 def initboard():
     
     board = []

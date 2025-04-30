@@ -48,4 +48,5 @@ def isitapalindromeidkwhywoulduwanttoknowthisanywaysword(word):
     else:
         return False
 
-isitapalindromeidkwhyuwouldwanttoknowthisanywaysword()
+for maybeapalindrome in words:
+    isitapalindromeidkwhyuwouldwanttoknowthisanywaysword()

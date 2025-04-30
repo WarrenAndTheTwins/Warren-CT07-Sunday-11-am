@@ -104,7 +104,7 @@ for sentence in sentences:
     sentence = sentence.replace(" ", "")
     if isitapalindromeidkwhyuwouldwanttoknowthisanywaysword(sentence):
         funnysentencepalindromesforteacherslolsofunny.append(sentence)
-print()
+print(funnysentencepalindromesforteacherslolsofunny)
 
 
 

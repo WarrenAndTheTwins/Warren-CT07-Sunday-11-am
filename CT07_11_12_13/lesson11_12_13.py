@@ -48,8 +48,10 @@ def get_play_move(argboard, player):
 
 board = initboard()
 
-printboard(board)
 
-board = get_play_move(board, "X")
+while True:
+    printboard(board)
+
+    board = get_play_move(board, "X")
 
 printboard(board)

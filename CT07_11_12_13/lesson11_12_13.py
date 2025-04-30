@@ -46,7 +46,8 @@ def get_play_move(argboard, player):
 def get_current_player(player):
      if cplayer == "X":
          return "W"
-     
+     else:
+         return "X"
 
 
 #-----------------------------------------------------------------------------MAIN-GAME-CODE------------------------------------------------------------------------------------------------

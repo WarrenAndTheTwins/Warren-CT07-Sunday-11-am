@@ -42,7 +42,7 @@ word = "nnnnn"
 
 
 # function only checks 1 word to see if its a palindrome
-def isitapalindromeidkwhywoulduwanttoknowthisanywaysword(word):
+def isitapalindromeidkwhyuwoulduwanttoknowthisanywaysword(word):
     if word == word[::-1]:
         return True
     else:

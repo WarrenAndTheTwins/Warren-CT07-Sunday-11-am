@@ -43,6 +43,6 @@ def isitapalindromeidkwhywoulduwanttoknowthisanyways():
     if word in words == word[::-1]:
         return True
     else:
-        print(word + "is not a palindrome")
+        return False
 
 isitapalindromeidkwhyuwouldwanttoknowthisanyways()

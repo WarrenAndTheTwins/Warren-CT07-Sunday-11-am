@@ -97,7 +97,9 @@ sentences = [
 ]
 # write your code here
 
-
+for sentence in sentences:
+    sentence = sentence.lower
+    sentence =m 
 
 
 

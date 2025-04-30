@@ -52,4 +52,4 @@ for maybeapalindrome in words:
     if isitapalindromeidkwhyuwouldwanttoknowthisanywaysword(maybeapalindrome):
         print(maybeapalindrome + "is a palindrome")
     else:
-        print(maybeapalindrome)
+        print(maybeapalindrome + "is not a palindrome")

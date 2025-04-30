@@ -97,10 +97,14 @@ sentences = [
 ]
 # write your code here
 
+funnysentencepalindromesforteacherslolsofunny = []
+
 for sentence in sentences:
-    sentence = sentence.lower
+    sentence = sentence.lower()
     sentence = sentence.replace(" ", "")
-    
+    if isitapalindromeidkwhyuwouldwanttoknowthisanywaysword(sentence):
+        funnysentencepalindromesforteacherslolsofunny.append(sentence)
+
 
 
 

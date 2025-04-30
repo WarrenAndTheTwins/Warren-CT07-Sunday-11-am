@@ -15,9 +15,10 @@ def printboard(argboard):
     count = 1
     for row in argboard:
         for cell in row:
-            print(f"| {count} ", end="")
-        else:
-            print(f"| {count} ", end="")
+            if cell == "":
+                print(f"| {count} ", end="")
+            else:
+                print(f"| {count} ", end="")
             if count % 3 == 0:
                 print("|")
                 print("-"*13)

@@ -23,5 +23,5 @@ length = len(list1)
 print(sum)
 average = sum / length
 print(average)
-ARDTTNWN = round(sum / length, 2)
-print(ARDTTNWN)
+ARTTSDP = round(sum / length, 2)
+print(ARTTSDP)

@@ -102,7 +102,7 @@ funnysentencepalindromesforteacherslolsofunny = []
 for sentence in sentences:
     sentence2 = sentence2.lower()
     sentence2 = sentence2.replace(" ", "")
-    if isitapalindromeidkwhyuwouldwanttoknowthisanywaysword(sentence):
+    if isitapalindromeidkwhyuwouldwanttoknowthisanywaysword(sentence2):
         funnysentencepalindromesforteacherslolsofunny.append(sentence)
 print(funnysentencepalindromesforteacherslolsofunny)
 

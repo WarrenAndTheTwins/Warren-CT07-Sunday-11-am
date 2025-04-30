@@ -44,7 +44,7 @@ def get_play_move(argboard, player):
         print("NOT NUMBAH")
 
 def get_current_player(player):
-     if cplayer == "X":
+     if player == "X":
          return "W"
      else:
          return "X"

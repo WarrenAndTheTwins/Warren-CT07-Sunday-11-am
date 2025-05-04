@@ -84,7 +84,9 @@ list1 = [2944, 5490, 2357, 2619, 1177, 451, 8299, 2533, 4682, 6040,
 for i in list1:
     is_even(i)
     if True:
-        print("")
+        print("Nope,"  + i + " is not even")
+    if False:
+        print(Y)
     
     # remove this when you code. Ask Code Mentor if unsure.
 

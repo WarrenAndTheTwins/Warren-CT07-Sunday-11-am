@@ -20,25 +20,25 @@
 # Assume that first item in list is 1 August (not zero!)
 # You are allowed to use the inbuilt functions e.g. max()
 ##########################################################
-daily_sales = [1205, 986, 1354, 10535, 15741, 11200, 800, 
-               13056, 952, 1100, 1025, 8574, 14014, 9987, 
-               1238, 1458, 7803, 900, 13674, 14539, 13241, 
-               10886, 7541, 8743, 1482, 11523, 977, 12181, 
-               8903, 1008, 1530]
-# Write your code here.
+# daily_sales = [1205, 986, 1354, 10535, 15741, 11200, 800, 
+#                13056, 952, 1100, 1025, 8574, 14014, 9987, 
+#                1238, 1458, 7803, 900, 13674, 14539, 13241, 
+#                10886, 7541, 8743, 1482, 11523, 977, 12181, 
+#                8903, 1008, 1530]
+# # Write your code here.
 
-sum = 0
-average = 0
-maximum_sale = max(daily_sales)
-maximum_day = daily_sales.index(maximum_sale) + 1
-print("August " + str(maximum_day) + " had the highest sales of :" + str(maximum_sale))
-minimum_sale = min(daily_sales)
-minimum_day = daily_sales.index(minimum_sale) + 1
-print("August " + str(minimum_day) + " had the lowest sales of :" + str(minimum_sale))
-for day_sale in daily_sales:
-    sum += day_sale 
-    average = round(sum / len(daily_sales), 2)
-print("The average sale per day in August was " + str(average))
+# sum = 0
+# average = 0
+# maximum_sale = max(daily_sales)
+# maximum_day = daily_sales.index(maximum_sale) + 1
+# print("August " + str(maximum_day) + " had the highest sales of :" + str(maximum_sale))
+# minimum_sale = min(daily_sales)
+# minimum_day = daily_sales.index(minimum_sale) + 1
+# print("August " + str(minimum_day) + " had the lowest sales of :" + str(minimum_sale))
+# for day_sale in daily_sales:
+#     sum += day_sale 
+#     average = round(sum / len(daily_sales), 2)
+# print("The average sale per day in August was " + str(average))
 
 # You are given a list of 100 random numbers. 
 # Your task is to check if each number is odd or even.

@@ -57,9 +57,9 @@
 ##### Task 1: COMPLETE THIS FUNCTION TO CHECK ODD/ EVEN
 def is_even(num):
     if num % 2 == 0:
-        is_even = True
+        return True
     else:
-        is_even = False
+        return False
 
       
     # remove this when you code. Ask Code Mentor if unsure.

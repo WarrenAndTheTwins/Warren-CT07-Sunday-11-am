@@ -30,7 +30,7 @@ daily_sales = [1205, 986, 1354, 10535, 15741, 11200, 800,
 sum = 0
 average = 0
 maximum_sale = max(daily_sales)
-print(maximum_sale.index() +maximum_sale)
+print("August" + maximum_sale.index() +maximum_sale)
 minimum_sale = min(daily_sales)
 print(minimum_sale)
 for day_sale in daily_sales:

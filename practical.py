@@ -36,4 +36,4 @@ print(minimum_sale)
 for day_sale in daily_sales:
     sum += day_sale 
     average = round(sum / len(daily_sales), 2)
-print()
+print(average)

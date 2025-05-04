@@ -34,7 +34,7 @@ maximum_day = daily_sales.index(maximum_sale) + 1
 print("August " + str(maximum_day) + " had the highest sales of :" + str(maximum_sale))
 minimum_sale = min(daily_sales)
 minimum_day = daily_sales.index(minimum_sale) + 1
-print("August " + str(minimum_day) + " had the lowest sales of :" + maximum_sale)
+print("August " + str(minimum_day) + " had the lowest sales of :" + str(maximum_sale))
 for day_sale in daily_sales:
     sum += day_sale 
     average = round(sum / len(daily_sales), 2)

@@ -85,7 +85,7 @@ for i in list1:
     is_even(i)
     if is_even == True:
         print("Yep, " + i + "is even") 
-    if False:
+    if is_even == False:
         print("Nope,"  + i + " is not even")
     
     # remove this when you code. Ask Code Mentor if unsure.

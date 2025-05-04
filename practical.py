@@ -35,4 +35,4 @@ minimum_sale = min(daily_sales)
 print(minimum_sale)
 for day_sale in daily_sales:
     sum += day_sale 
-    average = sum / 
+    average = sum / index()

@@ -31,3 +31,5 @@ maximum_sale = max(daily_sales)
 print(maximum_sale)
 minimum_sale = min(daily_sales)
 print(minimum_sale)
+for day_sale in daily_sales:
+    

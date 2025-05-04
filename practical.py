@@ -27,9 +27,10 @@ daily_sales = [1205, 986, 1354, 10535, 15741, 11200, 800,
                8903, 1008, 1530]
 # Write your code here.
 
+sum = 0
 maximum_sale = max(daily_sales)
 print(maximum_sale)
 minimum_sale = min(daily_sales)
 print(minimum_sale)
 for day_sale in daily_sales:
-    
+    sum += day_sale 

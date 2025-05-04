@@ -29,3 +29,4 @@ daily_sales = [1205, 986, 1354, 10535, 15741, 11200, 800,
 
 maximum_sale = max(daily_sales)
 print(maximum_sale)
+minimum_sale 

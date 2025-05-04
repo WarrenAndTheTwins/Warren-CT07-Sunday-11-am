@@ -38,4 +38,4 @@ print("August " + str(minimum_day) + " had the lowest sales of :" + str(maximum_
 for day_sale in daily_sales:
     sum += day_sale 
     average = round(sum / len(daily_sales), 2)
-print("The average sale per day in August was " + average)
+print("The average sale per day in August was " + str(average))

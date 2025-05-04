@@ -59,9 +59,11 @@ def is_even(num):
     if num % 2 == 0:
         is_even = True
     else:
-        
+        is_even = False
 
-    pass # remove this when you code. Ask Code Mentor if unsure.
+      
+    # remove this when you code. Ask Code Mentor if unsure.
+
     # Write your code to check if the number is even
     
     # return True or False

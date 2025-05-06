@@ -12,5 +12,7 @@ def guessgame(min, max):
 while True:
     guessgame(1, 10)
     if guessgame(): 
-        
+        print("yay")
+    else:
+        p
 

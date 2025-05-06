@@ -10,7 +10,6 @@ def guessgame(min, max):
         return False
 
 while True:
-    guessgame(1, 10)
     if guessgame(1, 10): 
         print("yay")
     else:

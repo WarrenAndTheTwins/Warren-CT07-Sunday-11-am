@@ -1,2 +1,3 @@
 import random
-import time
+def guessgame(min, max):
+    

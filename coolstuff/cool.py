@@ -8,5 +8,9 @@ def guessgame(min, max):
         return True
     else:
         return False
-guessgame(1, 10)
+
+while True:
+    guessgame(1, 10)
+    if guessgame(): 
+        
 

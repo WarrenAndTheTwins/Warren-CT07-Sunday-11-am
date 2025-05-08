@@ -1,9 +1,8 @@
 import random
 
-ans = 1
 def guessgame(min, max):
     ans = random.randint(min, max)
-    guess = input("Guess a number between "+ str(min) + " and " + str(max) + ".")
+    guess = int(input("Guess a number between "+ str(min) + " and " + str(max) + "."))
     if guess == ans:
         return True
     else:

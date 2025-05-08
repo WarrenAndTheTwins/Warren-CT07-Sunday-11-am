@@ -9,7 +9,8 @@ def guessgame(min, max):
         return False
 
 while True:
-    input("What difficulty do you choose?") 
+    arrows = input("What difficulty do you choose?") 
+    
     if guessgame(1, 10): 
         print("yay")
     else:

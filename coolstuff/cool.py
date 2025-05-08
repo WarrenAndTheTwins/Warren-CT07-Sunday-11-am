@@ -17,12 +17,12 @@ while True:
             print("Incorrect")
     elif difficulty == "M" or "m" or "medium":
         if guessgame(1, 10): 
-            print("yay")
+            print("Correct")
         else:
             print("Incorrect")
     elif difficulty == "H" or "h" or "hard":
         if guessgame(1, 25): 
-            print("yay")
+            print("Correct")
         else:
             print("Incorrect")
  

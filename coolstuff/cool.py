@@ -10,7 +10,7 @@ def guessgame(min, max):
 
 while True:
     print("What difficulty do you choose?") 
-    input()
+    input("EZ")
 
     if guessgame(1, 10): 
         print("yay")

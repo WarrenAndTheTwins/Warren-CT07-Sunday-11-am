@@ -19,7 +19,7 @@ while True:
         if guessgame(1, 10): 
             print("yay")
         else:
-            print("awww")
+            print("Incorrect")
     elif difficulty == "H" or "h" or "hard":
         if guessgame(1, 25): 
             print("yay")

@@ -31,4 +31,4 @@ while True:
         else:
             print("Incorrect")
     else: 
-        print("Sorry, ")
+        print("Sorry, choose something else.")

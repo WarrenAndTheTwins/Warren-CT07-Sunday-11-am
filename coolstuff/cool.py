@@ -12,9 +12,9 @@ while True:
     difficulty = input("What difficulty do you choose?") 
     if difficulty == "e" or "E" or "ez" or "easy":
         if guessgame(1, 5): 
-            print("yay")
+            print("Correct")
         else:
-            print("awww")
+            print("Incorrect")
     elif difficulty == "M" or "m" or "medium":
         if guessgame(1, 10): 
             print("yay")

@@ -1,6 +1,6 @@
 import random
 
-ans = 0
+ans = 1
 def guessgame(min, max):
     ans = random.randint(min, max)
     guess = input("Guess a number between "+ str(min) + " and " + str(max) + ".")

@@ -9,7 +9,7 @@ def guessgame(min, max):
         return False
 
 while True:
-    input("") 
+    input("What diff") 
     if guessgame(1, 10): 
         print("yay")
     else:

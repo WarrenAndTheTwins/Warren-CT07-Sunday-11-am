@@ -25,7 +25,7 @@ while True:
             print("Correct")
         else:
             print("Incorrect")
-    elif difficulty in ["I" or "i" or "impossible"]:
+    elif difficulty in ["I", "i", "impossible"]:
         if guessgame(1, 100): 
             print("Correct")
         else:

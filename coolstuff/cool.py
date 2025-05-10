@@ -39,6 +39,6 @@ while True:
         else:
             print("Incorrect")
             streak = 0
-    
+    elif difficulty in ["streak", "Streak"]:
     else: 
         print("Sorry, choose something else.")

@@ -21,6 +21,7 @@ while True:
     elif difficulty in ["m", "M", "medium"]:
         if guessgame(1, 10): 
             print("Correct")
+            streak += 1
         else:
             print("Incorrect")
             streak = 0

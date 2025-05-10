@@ -38,5 +38,7 @@ while True:
             streak += 1
         else:
             print("Incorrect")
+            streak = 0
+    
     else: 
         print("Sorry, choose something else.")

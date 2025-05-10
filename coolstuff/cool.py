@@ -17,12 +17,13 @@ while True:
             print("Correct")
         else:
             print("Incorrect")
+            streak = 0
     elif difficulty in ["m", "M", "medium"]:
         if guessgame(1, 10): 
             print("Correct")
         else:
             print("Incorrect")
-            
+            streak = 0
     elif difficulty in ["H", "h", "hard"]:
         if guessgame(1, 25): 
             print("Correct")

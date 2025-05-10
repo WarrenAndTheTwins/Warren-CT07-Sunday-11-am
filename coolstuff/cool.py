@@ -15,6 +15,7 @@ while True:
     if difficulty in ["e", "E", "ez", "easy"]:
         if guessgame(1, 5): 
             print("Correct")
+            streak += 1
         else:
             print("Incorrect")
             streak = 0

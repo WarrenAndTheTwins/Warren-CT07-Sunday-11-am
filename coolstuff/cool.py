@@ -40,6 +40,6 @@ while True:
             print("Incorrect")
             streak = 0
     elif difficulty in ["streak", "Streak"]:
-        print("Your streak is at " + streak + ".")
+        print("Your streak is at " + str(streak) + ".")
     else: 
         print("Sorry, choose something else.")

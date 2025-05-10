@@ -10,12 +10,12 @@ def guessgame(min, max):
 
 while True:
     difficulty = input("What difficulty do you choose?") 
-    if difficulty == "e" or "E" or "ez" or "easy":
+    if difficulty in ["e", "E", "ez", "easy"]:
         if guessgame(1, 5): 
             print("Correct")
         else:
             print("Incorrect")
-    elif difficulty == "M" or "m" or "medium":
+    elif difficulty in ["m", "M", "medium"]:
         if guessgame(1, 10): 
             print("Correct")
         else:

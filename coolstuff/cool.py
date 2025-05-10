@@ -31,6 +31,7 @@ while True:
             streak += 1
         else:
             print("Incorrect")
+            streak = 0
     elif difficulty in ["I", "i", "impossible"]:
         if guessgame(1, 100): 
             print("Correct")

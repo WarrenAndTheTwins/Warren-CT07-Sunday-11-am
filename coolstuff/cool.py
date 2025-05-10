@@ -22,9 +22,11 @@ while True:
             print("Correct")
         else:
             print("Incorrect")
+            
     elif difficulty in ["H", "h", "hard"]:
         if guessgame(1, 25): 
             print("Correct")
+            streak += 1
         else:
             print("Incorrect")
     elif difficulty in ["I", "i", "impossible"]:

@@ -36,7 +36,7 @@ else:
         if input("No, no, it can't be..... It can't be gun!") == "krn8t6":
             print("Access unlocked.")
             time.sleep(2)
-            input()
+            input("Rocch")
     else: 
         print("Hmmm... I've never seen that played before.")
     

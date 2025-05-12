@@ -48,7 +48,7 @@ else:
                 time.sleep(1)
                 fun = input("Rocch, peiber, or cissurs?")
                 if fun == "gun":
-                    print("Ah, you've outsmarted me. That desreves a tie! *spins around, showing he played gun too.*")
+                    print("Ah, you've outsmarted me. That desrves a tie! *spins around, showing he played gun too.*")
                     time.sleep(0.5)
                     print("Ending 2! Also, happy mother's day!")
                 else:

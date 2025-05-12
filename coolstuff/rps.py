@@ -46,7 +46,7 @@ else:
                 print("I've been cast out for a long time. Finally, someone knows me.")
                 print("Let's play rocch, peiber, cissurs!")
                 fun = input("Rock, paper, or scissors?")
-                print("Ah, you've chosen " + fun + ", a wise choice.")
+                print("Ah, you've chosen " + str(fun) + ", a wise choice.")
                 time.sleep(1)
                 print("But, a wise choice is not always a good one.")
                 time.sleep(1)
@@ -57,7 +57,8 @@ else:
                 print("I win, you lose.")
                 time.sleep(0.5)
                 print("Ending 1! Also, happy mother's day!")
-    
+            if fun == "2":
+                print()
     else: 
         print("Hmmm... I've never seen that played before.")
     

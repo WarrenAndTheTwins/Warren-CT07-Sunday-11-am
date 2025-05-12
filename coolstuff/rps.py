@@ -72,14 +72,14 @@ else:
                 time.sleep(1)
                 fun = input("Let's play rocch, peiber, cissurs...")
                 if fun in ["scissors", "cissurs", "Scissors", "Cissurs", "S", "s", "C", "c"]:
-                    print("I played paper... ")
+                    print("I played peiber... ")
                     time.sleep(1)
                     print("I lose...")
                     time.sleep(2)
                     print("*he walks away, defeated*")
                     print("Ending 3! Also, happy mother's day!")
                 elif fun in ["rock", "rocch", "Rock", "Rocch", "R", "r"]:
-                    print("I played scissors... ")
+                    print("I played cissurs... ")
                     time.sleep(1)
                     print("I lose...")
                     time.sleep(2)

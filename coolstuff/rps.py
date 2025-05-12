@@ -40,7 +40,9 @@ else:
             print("say: Is that you, gun? by typing 1")
             print("")
             print("say: What do you mean by rocch, peibur, cissurs? by typing 2")      
-            fun = input("")                      
+            fun = input("")
+            if fun == "1":
+                print("")
     else: 
         print("Hmmm... I've never seen that played before.")
     

@@ -47,6 +47,7 @@ else:
                 print("Let's play rocch, peiber, cissurs!")
                 fun = input("Rock, paper, or scissors?")
                 print("Ah, you've chosen " + fun + ".")
+                print("")
     else: 
         print("Hmmm... I've never seen that played before.")
     

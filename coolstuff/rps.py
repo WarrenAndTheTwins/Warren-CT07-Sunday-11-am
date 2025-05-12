@@ -73,7 +73,8 @@ else:
                 if fun in ["scissors", "cissurs", "Scissors", "Cissurs", "S", "s", "C", "c"]:
                     print("I played paper... ")
                     time.sleep(1)
-                    print()
+                    print("I lose...")
+                    
 
     else: 
         print("Hmmm... I've never seen that played before.")

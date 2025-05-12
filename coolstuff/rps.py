@@ -65,7 +65,7 @@ else:
             if fun == "2":
                 print("Hmm, the one who doesn't know...")
                 time.sleep(2)
-                print("Well, just to keep it short, rocch, peiber, and cissurs were the three fighters in an arena that ")
+                print("Well, just to keep it short, rocch, peiber, and cissurs were the three fighters in an arena that could")
     else: 
         print("Hmmm... I've never seen that played before.")
     

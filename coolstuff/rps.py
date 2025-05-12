@@ -50,7 +50,7 @@ else:
                 time.sleep(1)
                 print("But, a wise choice is not always a good one.")
                 time.sleep(1)
-                print("He s")
+                print("*he spins ")
     else: 
         print("Hmmm... I've never seen that played before.")
     

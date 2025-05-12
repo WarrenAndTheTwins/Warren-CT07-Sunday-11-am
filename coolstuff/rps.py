@@ -47,7 +47,9 @@ else:
                 print("Let's play rocch, peiber, cissurs!")
                 fun = input("Rock, paper, or scissors?")
                 print("Ah, you've chosen " + fun + ", a wise choice.")
+                time.sleep(1)
                 print("But, a wise choice is not always a good one.")
+                
     else: 
         print("Hmmm... I've never seen that played before.")
     

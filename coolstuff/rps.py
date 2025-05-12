@@ -45,7 +45,8 @@ else:
                 print("Ah, finally, someone who recognizes me!")
                 print("I've been cast out for a long time. Finally, someone knows me.")
                 print("Let's play rocch, peiber, cissurs!")
-                fun = input("Rocch, peiber, or scissors?")
+                time.sleep(1)
+                fun = input("Rocch, peiber, or cissurs?")
                 if fun == "gun":
                     print("Ah, you've outsmarted me. That desreves a tie! *spins around, showing he played gun too.*")
                     time.sleep(0.5)

@@ -70,6 +70,8 @@ else:
                 print("...and I fixed that...")
                 time.sleep(1)
                 fun = input("Let's play rocch, peiber, cissurs...")
+                if fun in ["scissors", "cissurs", "Scissors", "Cissurs", "S", "s", "C", "c"]:
+                    print()
 
     else: 
         print("Hmmm... I've never seen that played before.")

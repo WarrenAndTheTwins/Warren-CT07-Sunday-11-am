@@ -65,6 +65,7 @@ else:
             if fun == "2":
                 print("Hmm, the one who doesn't know...")
                 time.sleep(2)
+                print("Well, ")
     else: 
         print("Hmmm... I've never seen that played before.")
     

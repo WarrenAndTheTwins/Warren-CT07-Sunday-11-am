@@ -69,7 +69,7 @@ else:
                 time.sleep(1)
                 print("...and I fixed that...")
                 time.sleep(1)
-                print()
+                print("Let's pla")
     else: 
         print("Hmmm... I've never seen that played before.")
     

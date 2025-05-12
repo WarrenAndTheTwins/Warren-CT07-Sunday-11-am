@@ -47,7 +47,8 @@ else:
                 print("Let's play rocch, peiber, cissurs!")
                 fun = input("Rock, paper, or scissors?")
                 if fun == "gun":
-                    
+                    print("Ah, you've outsmarted me. That desreves a tie!")
+                    print()
                 else:
                     print("Ah, you've chosen " + str(fun) + ", a wise choice.")
                     time.sleep(1)

@@ -46,7 +46,7 @@ else:
                 print("I've been cast out for a long time. Finally, someone knows me.")
                 print("Let's play rocch, peiber, cissurs!")
                 input("Rock, paper, or scissors?")
-                
+                print("Ah, you've chosen")
     else: 
         print("Hmmm... I've never seen that played before.")
     

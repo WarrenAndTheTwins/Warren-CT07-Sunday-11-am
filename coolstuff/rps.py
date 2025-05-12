@@ -44,7 +44,7 @@ else:
             if fun == "1":
                 print("Ah, finally, someone who recognizes me!")
                 print("I've been cast out for a long time. Finally, someone knows me.")
-                print("Want to play?")
+                print("Let's play rocch, p")
     else: 
         print("Hmmm... I've never seen that played before.")
     

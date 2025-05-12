@@ -95,7 +95,7 @@ else:
                 if fun in ["scissors", "cissurs", "Scissors", "Cissurs", "S", "s", "C", "c"]:
                     print("I played paper... ")
                     time.sleep(1)
-                    print("I lose...")
+                    print("")
                     time.sleep(2)
                     print("*he walks away, defeated*")
                     print("Ending 2! Also, happy mother's day!")

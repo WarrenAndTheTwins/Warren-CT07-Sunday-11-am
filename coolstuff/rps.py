@@ -63,7 +63,8 @@ else:
                     time.sleep(0.5)
                     print("Ending 1! Also, happy mother's day!")
             if fun == "2":
-                print("Hmm, the one who doesn't ")
+                print("Hmm, the one who doesn't know...")
+                time.sleep(2)
     else: 
         print("Hmmm... I've never seen that played before.")
     

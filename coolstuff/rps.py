@@ -97,7 +97,7 @@ else:
                     time.sleep(1)
                     print("We're both cheaters...?")
                     time.sleep(2)
-                    print("That's a tie")
+                    print("That's a tie!")
                     print("Ending 2! Also, happy mother's day!")
 
     else: 

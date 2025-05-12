@@ -92,7 +92,7 @@ else:
                     time.sleep(2)
                     print("*he walks away, defeated*")
                     print("Ending 3! Also, happy mother's day!")
-                if fun in ["gun", "gun", "Scissors", "Cissurs", "S", "s", "C", "c"]:
+                if fun in ["gun", "Gun", "G", "Cissurs", "S", "s", "C", "c"]:
                     print("I played gun too!")
                     time.sleep(1)
                     print("")

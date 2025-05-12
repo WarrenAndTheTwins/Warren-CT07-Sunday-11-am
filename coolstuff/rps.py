@@ -51,7 +51,8 @@ else:
                 print("But, a wise choice is not always a good one.")
                 time.sleep(1)
                 print("*he spins around, showing you his choice.")
-                print("I choose gun. Shatters rock, pierces paper, ")
+                tinm
+                print("I choose gun. Shatters rock, pierces paper, cripples scissors.")
     else: 
         print("Hmmm... I've never seen that played before.")
     

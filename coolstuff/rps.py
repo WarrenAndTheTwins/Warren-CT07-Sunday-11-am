@@ -42,7 +42,7 @@ else:
             print("say: What do you mean by rocch, peibur, cissurs? by typing 2")      
             fun = input("")
             if fun == "1":
-                print("")
+                print("Ah, finally, someone who recognizes me! ")
     else: 
         print("Hmmm... I've never seen that played before.")
     

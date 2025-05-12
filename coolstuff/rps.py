@@ -45,7 +45,7 @@ else:
                 print("Ah, finally, someone who recognizes me!")
                 print("I've been cast out for a long time. Finally, someone knows me.")
                 print("Let's play rocch, peiber, cissurs!")
-                fun = input("Rock, paper, or scissors?")
+                fun = input("Rocch, paper, or scissors?")
                 if fun == "gun":
                     print("Ah, you've outsmarted me. That desreves a tie! *spins around, showing he played gun too.*")
                     time.sleep(0.5)
@@ -57,7 +57,7 @@ else:
                     time.sleep(1)
                     print("*he spins around, showing you his choice.")
                     time.sleep(.75)
-                    print("I choose gun. Shatters rock, pierces peiber, cripples cissurs.")
+                    print("I choose gun. Shatters rocch, pierces peiber, cripples cissurs.")
                     time.sleep(1)
                     print("I win, you lose.")
                     time.sleep(0.5)

@@ -84,7 +84,7 @@ else:
                     time.sleep(2)
                     print("*he walks away, defeated*")
                     print("Ending 3! Also, happy mother's day!")
-                if fun in ["paper", "Paper", "Scissors", "Cissurs", "S", "s", "C", "c"]:
+                if fun in ["paper", "Paper", "peiper", "Cissurs", "S", "s", "C", "c"]:
                     print("I played paper... ")
                     time.sleep(1)
                     print("I lose...")

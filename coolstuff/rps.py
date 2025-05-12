@@ -56,7 +56,7 @@ else:
                 time.sleep(1)
                 print("I win, you lose.")
                 time.sleep(0.5)
-                print()
+                print("Ending 1")
     else: 
         print("Hmmm... I've never seen that played before.")
     

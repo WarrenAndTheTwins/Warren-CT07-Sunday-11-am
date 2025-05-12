@@ -49,7 +49,7 @@ else:
                 if fun == "gun":
                     print("Ah, you've outsmarted me. That desreves a tie! *spins around, showing he played gun too.*")
                     time.sleep(0.5)
-                    print("")
+                    print("Ending 2! Also, happy mother's day!")
                 else:
                     print("Ah, you've chosen " + str(fun) + ", a wise choice.")
                     time.sleep(1)

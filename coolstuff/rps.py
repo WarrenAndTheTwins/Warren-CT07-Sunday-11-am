@@ -76,7 +76,7 @@ else:
                     print("I lose...")
                     time.sleep(2)
                     print("*he walks away, defeated*")
-                    print("Ending 3! Also, ")
+                    print("Ending 3! Also, happy ")
 
     else: 
         print("Hmmm... I've never seen that played before.")

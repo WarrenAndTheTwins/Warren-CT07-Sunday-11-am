@@ -69,8 +69,8 @@ else:
                 time.sleep(1)
                 print("...and I fixed that...")
                 time.sleep(1)
-                print("Let's play rocch, peiber, cissurs...")
-                
+                fun = input("Let's play rocch, peiber, cissurs...")
+
     else: 
         print("Hmmm... I've never seen that played before.")
     

@@ -99,7 +99,8 @@ else:
                     time.sleep(2)
                     print("That's a tie!")
                     print("Ending 2! Also, happy mother's day!")
-
+                else:
+                    print()
     else: 
         print("Hmmm... I've never seen that played before.")
     

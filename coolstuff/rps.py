@@ -74,7 +74,7 @@ else:
                     print("I played paper... ")
                     time.sleep(1)
                     print("I lose...")
-                    
+                    print("*")
 
     else: 
         print("Hmmm... I've never seen that played before.")

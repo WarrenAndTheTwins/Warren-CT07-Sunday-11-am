@@ -31,7 +31,7 @@ if choice in ["rock", "Rock", "r", "R", "paper", "Paper", "p", "P", "Scissors", 
 else:
     if choice in ["gun", "GUN"]:
         print("Really? That's quite immature. *drinks tea, pinky sticking out*")
-    if choice in ["><<", "=><==<", "=> <= =>"]:
+    if choice in ["><<", "=><=<=", "=> <= =>"]:
         print ("Huh? What's tha-k̸̯̦͝r̶̢̦̈́̐n̷̯̼͑8̵̖͐͠t̶̻̎̋6̸̛̘̖̑?̷͎̒́")
         if input("No, no, it can't be..... It can't be gun!") == "krn8t6":
             print("Access unlocked.")

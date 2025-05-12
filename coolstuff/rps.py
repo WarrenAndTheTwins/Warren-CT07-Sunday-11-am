@@ -67,7 +67,7 @@ else:
                 time.sleep(2)
                 print("Well, just to keep it short, rocch, peiber, and cissurs were the three fighters in an arena that couldn't find a winner, no matter what.")
                 time.sleep(1)
-                
+                print()
     else: 
         print("Hmmm... I've never seen that played before.")
     

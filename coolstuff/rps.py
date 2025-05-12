@@ -53,6 +53,7 @@ else:
                 print("*he spins around, showing you his choice.")
                 time.sleep(.75)
                 print("I choose gun. Shatters rock, pierces paper, cripples scissors.")
+                time.sleep()
     else: 
         print("Hmmm... I've never seen that played before.")
     

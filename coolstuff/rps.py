@@ -49,7 +49,8 @@ else:
                 print("Ah, you've chosen " + fun + ", a wise choice.")
                 time.sleep(1)
                 print("But, a wise choice is not always a good one.")
-                
+                time.sleep(1)
+                print("He s")
     else: 
         print("Hmmm... I've never seen that played before.")
     

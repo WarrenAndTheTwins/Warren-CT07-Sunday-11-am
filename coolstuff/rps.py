@@ -54,7 +54,8 @@ else:
                 time.sleep(.75)
                 print("I choose gun. Shatters rock, pierces paper, cripples scissors.")
                 time.sleep(1)
-                print("")
+                print("I win, you lose.")
+                time.sleep
     else: 
         print("Hmmm... I've never seen that played before.")
     

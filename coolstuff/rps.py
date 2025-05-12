@@ -95,7 +95,7 @@ else:
                 if fun in ["gun", "Gun", "G", "g"]:
                     print("I played gun too!")
                     time.sleep(1)
-                    print("")
+                    print("We're both cheaters...?..")
                     time.sleep(2)
                     print("*he walks away, defeated*")
                     print("Ending 2! Also, happy mother's day!")

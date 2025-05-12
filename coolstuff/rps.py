@@ -38,6 +38,7 @@ else:
             time.sleep(2)
             print("Rocch, peibur, cissurs.")       
             print("say: Is that you, gun? by typing 1")
+            print("")
             print("say: What do you mean by rocch, peibur, cissurs? by typing 2")      
             fun = input("")                      
     else: 

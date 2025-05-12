@@ -37,7 +37,7 @@ else:
             print("Access unlocked.")
             time.sleep(2)
             print("Rocch, peibur, cissurs.")       
-            print("say: ")                            
+            print("say: Is that you, gun?")                            
     else: 
         print("Hmmm... I've never seen that played before.")
     

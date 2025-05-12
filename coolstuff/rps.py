@@ -66,6 +66,7 @@ else:
                 print("Hmm, the one who doesn't know...")
                 time.sleep(2)
                 print("Well, just to keep it short, rocch, peiber, and cissurs were the three fighters in an arena that couldn't find a winner, no matter what.")
+                time.sleep(1)
                 
     else: 
         print("Hmmm... I've never seen that played before.")

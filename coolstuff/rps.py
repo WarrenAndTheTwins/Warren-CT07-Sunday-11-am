@@ -43,7 +43,8 @@ else:
             fun = input("")
             if fun == "1":
                 print("Ah, finally, someone who recognizes me!")
-                print("I've been  for a long time. Finally, someone knows me.")
+                print("I've been cast out for a long time. Finally, someone knows me.")
+                
     else: 
         print("Hmmm... I've never seen that played before.")
     

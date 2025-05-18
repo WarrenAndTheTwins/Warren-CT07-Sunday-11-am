@@ -20,6 +20,8 @@ ball_y = screen_height // 2
 white = (255, 255, 255)
 ball_dx = 0.5
 ball_dy = 0.5
+player_1_score = 0
+play
 screen = pygame.display.set_mode((screen_width, screen_height))
 score_font = pygame.font.Font(None, 32)
 

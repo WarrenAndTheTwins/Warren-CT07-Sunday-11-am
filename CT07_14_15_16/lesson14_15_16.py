@@ -43,7 +43,7 @@ while running:
     if ball_y <= 0 or ball_y >= screen_height:
         ball_dy *= -1
     if ball_x <= 0 or ball_x >= screen_width:
-        ball
+        ball_dx *= -1
 
 
 

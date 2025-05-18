@@ -2,7 +2,7 @@ print("Hello from lesson 14_15_16")
 import pygame
 pygame.init()
 
-background_image = ""
+background_image = pygame.image.load
 screen_width = 800
 screen_height = 600
 paddle_width = 20

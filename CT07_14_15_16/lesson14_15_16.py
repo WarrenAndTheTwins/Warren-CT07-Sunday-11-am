@@ -54,6 +54,7 @@ while running:
     if ball_x >= paddle2_box.left - ball_radius and ball_y >= paddle2_box.top and ball_y <= paddle2_box.bottom:
         ball_dx *= -1           
 
+    screen.blit()
     pygame.draw.rect(screen, white, (paddle1_x, paddle1_y, paddle_width, paddle_height))
     pygame.draw.rect(screen, white, (paddle2_x, paddle2_y, paddle_width, paddle_height))
     screen.blit(tennis_ball_image, (ball_x - ball_radius, ball_y - ball_radius))

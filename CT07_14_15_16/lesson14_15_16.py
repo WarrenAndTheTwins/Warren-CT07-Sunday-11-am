@@ -56,6 +56,6 @@ while running:
 
     pygame.draw.rect(screen, white, (paddle1_x, paddle1_y, paddle_width, paddle_height))
     pygame.draw.rect(screen, white, (paddle2_x, paddle2_y, paddle_width, paddle_height))
-    screen.blit(tennis_ball_image, (ball))
+    screen.blit(tennis_ball_image, (ball_))
     pygame.display.flip()
 pygame.quit()

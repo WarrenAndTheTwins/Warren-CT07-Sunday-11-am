@@ -35,9 +35,9 @@ while running:
     if keys[pygame.K_s] and paddle1_y < screen_height - paddle_height:
         paddle1_y += 1
 
-    if keys[pygame.K_UP] and paddle1_y > 0:
+    if keys[pygame.K_UP] and paddle2_y > 0:
         paddle2_y -= 1
-    if keys[pygame.K_DOWN] and paddle1_y < screen_height - paddle_height:
+    if keys[pygame.K_DOWN] and paddle2_y < screen_height - paddle_height:
         paddle2_y += 1
     ball_x += ball_dx
     ball_y += ball_dy

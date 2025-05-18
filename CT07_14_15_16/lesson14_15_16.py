@@ -27,7 +27,7 @@ while running:
             running = False
 
     keys = pygame.key.get_pressed()
-
+    screen.fill((0, 0, 0)) #this set the color back black 
     if keys[pygame.K_w] and paddle1_y > 0:
         paddle1_y -= 1
     if keys[pygame.K_s] and paddle1_y < screen_height - paddle_height:
@@ -40,7 +40,9 @@ while running:
     ball_x += ball_dx
     ball_y += ball_dy
 
-    
+
+
+
 
     pygame.draw.rect(screen, white, (paddle1_x, paddle1_y, paddle_width, paddle_height))
     pygame.draw.rect(screen, white, (paddle2_x, paddle2_y, paddle_width, paddle_height))

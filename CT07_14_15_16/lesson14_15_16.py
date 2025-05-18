@@ -27,7 +27,7 @@ while running:
             running = False
 
     keys = pygame.key.get_pressed()
-    screen.fill((0, 0, 0)) #this set the color back black 
+    screen.blit((backgroungd_image)) #this set the color back black 
     if keys[pygame.K_w] and paddle1_y > 0:
         paddle1_y -= 1
     if keys[pygame.K_s] and paddle1_y < screen_height - paddle_height:

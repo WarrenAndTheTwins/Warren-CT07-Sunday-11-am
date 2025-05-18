@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 
 background_image = pygame.image.load("/workspaces/Warren-CT07-Sunday-11-am/CT07_14_15_16/Grass Court.jpg")
-tennis_ball_image = pygame
+tennis_ball_image = pygame.image.load()
 screen_width = 800
 screen_height = 600
 paddle_width = 20

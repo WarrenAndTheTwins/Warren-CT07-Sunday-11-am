@@ -49,8 +49,16 @@ while running:
 
     if ball_y <= 0 or ball_y >= screen_height:
         ball_dy *= -1
-    if ball_x <= 0 or ball_x >= screen_width:
+    # if ball_x <= 0 or ball_x >= screen_width:
+    #     ball_dx *= -1
+    if ball_x >= screen_width:
         ball_dx *= -1
+        player1_score += 1
+        print("Player 1 score: " + str(player1_score))
+    if ball_x <= 0:
+        ball_dx *= -1
+        player2_score += 1
+        print("Player 2 score: " + str(player2_score))
     paddle1_box = pygame.Rect(paddle1_x, paddle1_y, paddle_width, paddle_height)
     paddle2_box = pygame.Rect(paddle2_x, paddle2_y, paddle_width, paddle_height)
 

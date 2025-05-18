@@ -63,5 +63,7 @@ while running:
     screen.blit(rotate(tennis_racket_image, 180),(paddle2_x, paddle2_y, paddle_width, paddle_height))
     screen.blit(tennis_ball_image, (ball_x - ball_radius, ball_y - ball_radius))
     player1_score_text = score_font.render("Player 1 : " + str(player1_score), True, (0, 0, 0))
+
+
     pygame.display.flip()
 pygame.quit()

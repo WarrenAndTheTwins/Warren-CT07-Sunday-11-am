@@ -65,7 +65,7 @@ while running:
     player1_score_text = score_font.render("Player 1 : " + str(player1_score), True, (0, 0, 0))
     player1_score_text = score_font.render("Player 2 : " + str(player2_score), True, (0, 0, 0))
     screen.blit(player1_score_text, (10, 10))
-    screen.blit(player2_score_text, (screen_width))
+    screen.blit(player2_score_text, (screen_width - player1_score_text ))
 
     pygame.display.flip()
 pygame.quit()

@@ -18,7 +18,7 @@ ball_radius = 10
 ball_x = screen_width // 2
 ball_y = screen_height // 2
 white = (255, 255, 255)
-ball_dx = 7
+ball_dx = 2.5
 ball_dy = 5
 player1_score = 0
 player2_score = 0
@@ -41,9 +41,9 @@ while running:
         paddle1_y += 1.5
 
     if keys[pygame.K_UP] and paddle2_y > 0:
-        paddle2_y -= 3
+        paddle2_y -= 1.5
     if keys[pygame.K_DOWN] and paddle2_y < screen_height - paddle_height:
-        paddle2_y += 3
+        paddle2_y += 1.5
     ball_x += ball_dx
     ball_y += ball_dy
 
